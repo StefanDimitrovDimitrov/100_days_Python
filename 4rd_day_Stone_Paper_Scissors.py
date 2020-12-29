@@ -37,10 +37,8 @@ if user_choice >= 3 or user_choice < 0:
 else:
     print("Your chose:\n" + list_rps[user_choice])
 
-    random.shuffle(list_num)
-
-    computer_choice = list_num[0]
-    print("Computer chose:\n" + list_rps[list_num[0]])
+    computer_choice = random.randint(0, 2)
+    print("Computer chose:\n" + list_rps[computer_choice])
 
     if user_choice == 0 and computer_choice == 2:
         print("You win!")
