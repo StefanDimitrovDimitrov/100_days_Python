@@ -11,9 +11,9 @@ def play():
 
 
 def blackjack():
-    cards = [11, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10]
 
     def random_card():
+        cards = [11, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10]
         card = random.choice(cards)
         return card
 
@@ -71,6 +71,9 @@ def blackjack():
             break
 
         pass_continue = input("Type 'y' to get another card, type 'n' to pass: ")
+
+        if pass_continue == "n":
+            break
 
     if not is_finish:
         while total_computer <= 17:
