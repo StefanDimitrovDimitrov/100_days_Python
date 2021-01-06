@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d39ac67-6e9b-4539-8a63-59aad8f2aa40" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/12- day - Game_of_Guesses/game_of_guesses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12- day - Game_of_Guesses/logo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13-day-Debuging/basic exercises.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -334,11 +333,6 @@
           <url>file://$PROJECT_DIR$/10 - day - Calculator/Calculator.py</url>
           <line>51</line>
           <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/12- day - Game_of_Guesses/game_of_guesses.py</url>
-          <line>12</line>
-          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
