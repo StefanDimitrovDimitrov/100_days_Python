@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d39ac67-6e9b-4539-8a63-59aad8f2aa40" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/12- day - Game_of_Guesses/game_of_guesses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12- day - Game_of_Guesses/logo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +40,7 @@
       <recent name="C:\Forest\GitHub_Master\100_Days_Python\100_days_Python\2 - day - Tip_Calculator" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Blackjack game">
+  <component name="RunManager" selected="Python.game_of_guesses">
     <configuration name="100 days Python" type="PythonConfigurationType" factoryName="Python">
       <module name="100_days_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -144,7 +146,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="prime_num" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="game_of_guesses" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100_days_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -152,11 +154,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\jivot\AppData\Local\Programs\Python\Python38-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8 - day - CC" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12- day - Game_of_Guesses" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8 - day - CC/prime_num.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12- day - Game_of_Guesses/game_of_guesses.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,16 +194,16 @@
       <item itemvalue="Python.Blackjack game" />
       <item itemvalue="Python.Caesar Cipher" />
       <item itemvalue="Python.Calculator" />
-      <item itemvalue="Python.prime_num" />
       <item itemvalue="Python.test" />
+      <item itemvalue="Python.game_of_guesses" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.game_of_guesses" />
         <item itemvalue="Python.Blackjack game" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.Calculator" />
         <item itemvalue="Python.Caesar Cipher" />
-        <item itemvalue="Python.prime_num" />
       </list>
     </recent_temporary>
   </component>
@@ -255,6 +257,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="413" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609680233250" />
+    <state x="678" y="133" key="#game_of_guesses" timestamp="1609931037436">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="678" y="133" key="#game_of_guesses/0.0.1920.1040@0.0.1920.1040" timestamp="1609931037436" />
     <state x="1064" y="141" key="#main" timestamp="1609335234826">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -271,46 +277,46 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="739" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1609351701068" />
-    <state width="1919" height="242" key="GridCell.Tab.0.bottom" timestamp="1609846138359">
+    <state width="1919" height="495" key="GridCell.Tab.0.bottom" timestamp="1609931660985">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1919" height="242" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609846138359" />
-    <state width="1919" height="242" key="GridCell.Tab.0.center" timestamp="1609846138359">
+    <state width="1919" height="495" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609931660985" />
+    <state width="1919" height="495" key="GridCell.Tab.0.center" timestamp="1609931660985">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1919" height="242" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609846138359" />
-    <state width="1919" height="242" key="GridCell.Tab.0.left" timestamp="1609846138359">
+    <state width="1919" height="495" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609931660985" />
+    <state width="1919" height="495" key="GridCell.Tab.0.left" timestamp="1609931660985">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1919" height="242" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609846138359" />
-    <state width="1919" height="242" key="GridCell.Tab.0.right" timestamp="1609846138359">
+    <state width="1919" height="495" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609931660985" />
+    <state width="1919" height="495" key="GridCell.Tab.0.right" timestamp="1609931660985">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1919" height="242" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609846138359" />
-    <state width="1919" height="495" key="GridCell.Tab.1.bottom" timestamp="1609776584286">
+    <state width="1919" height="495" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609931660985" />
+    <state width="1919" height="495" key="GridCell.Tab.1.bottom" timestamp="1609931660986">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1919" height="495" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609776584286" />
-    <state width="1919" height="495" key="GridCell.Tab.1.center" timestamp="1609776584286">
+    <state width="1919" height="495" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609931660986" />
+    <state width="1919" height="495" key="GridCell.Tab.1.center" timestamp="1609931660985">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1919" height="495" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609776584286" />
-    <state width="1919" height="495" key="GridCell.Tab.1.left" timestamp="1609776584286">
+    <state width="1919" height="495" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609931660985" />
+    <state width="1919" height="495" key="GridCell.Tab.1.left" timestamp="1609931660985">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1919" height="495" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609776584286" />
-    <state width="1919" height="495" key="GridCell.Tab.1.right" timestamp="1609776584286">
+    <state width="1919" height="495" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609931660985" />
+    <state width="1919" height="495" key="GridCell.Tab.1.right" timestamp="1609931660986">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1919" height="495" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609776584286" />
+    <state width="1919" height="495" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609931660986" />
     <state x="0" y="0" key="SettingsEditor" timestamp="1609685468951">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="0" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1609685468951" />
-    <state x="1065" y="416" key="com.intellij.ide.util.TipDialog" timestamp="1609784016893">
+    <state x="1065" y="416" key="com.intellij.ide.util.TipDialog" timestamp="1609930172047">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1065" y="416" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609784016893" />
+    <state x="1065" y="416" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609930172047" />
     <state x="218" y="233" width="672" height="678" key="search.everywhere.popup" timestamp="1609182372618">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -328,6 +334,11 @@
           <url>file://$PROJECT_DIR$/10 - day - Calculator/Calculator.py</url>
           <line>51</line>
           <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/12- day - Game_of_Guesses/game_of_guesses.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
