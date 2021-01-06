@@ -2,13 +2,14 @@ for number in range(1, 101):
   if number % 3 == 0 or number % 5 == 0:
     #   replace or with and
     print("FizzBuzz")
-  if number % 3 == 0:
+  elif number % 3 == 0:
     print("Fizz")
-  if number % 5 == 0:
+  elif number % 5 == 0:
     print("Buzz")
   else:
     print([number])
 # we have to remove []
+# change the if with elif
 year = input("Which year do you want to check?")
 #  we have to parse the number adding int()
 if year % 4 == 0:
