@@ -57,14 +57,20 @@ def insert_coins():
 
 def if_enough_coins(user_coins, order, cost):
     if user_coins >= cost:
-        withdrew_resources(order)
         print(f"Here is ${(user_coins - cost):.2f} in change.")
-        print(f"Here is your {order} \N{hot beverage} Enjoy!")
         return True
     else:
         print("Sorry that's not enough money. Money refunded.")
         print(f"You need {cost - user_coins} to order the product")
         return False
+
+
+def make_coffee(drink):
+    global profit
+    profit += drink_cost
+    withdrew_resources(drink)
+
+    print(f"Here is your {drink} \N{hot beverage} Enjoy!")
 
 
 def withdrew_resources(drink):
@@ -92,14 +98,12 @@ while order != "off":
     if order == "espresso" or order == "latte" or order == "cappuccino":
         drink_cost = MENU[order]["cost"]
         if is_available_resources(order):
-            if if_enough_coins(insert_coins(), order, drink_cost):
-                profit += drink_cost
+            if if_enough_coins(insert_coins(), drink_cost):
+                make_coffee(order)
     elif order == "report":
         print(shows_the_resources(resources, profit))
-        continue
     elif order == "off":
         print("The machine is currently not available.")
         break
     else:
         print("Please choice between espresso/latte/cappuccino!!!")
-        continue
