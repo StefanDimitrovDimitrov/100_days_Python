@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d39ac67-6e9b-4539-8a63-59aad8f2aa40" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/15-days - Coffee Machine.py" beforeDir="false" afterPath="$PROJECT_DIR$/15-days -Coffee Machine/Coffee Machine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16-days- OOP-Basics/PrettyTable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16-days- OOP-Basics/Turtle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16-days- OOP-Basics/coffee_maker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16-days- OOP-Basics/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16-days- OOP-Basics/menu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16-days- OOP-Basics/money_machine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17-days-Something/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/100_days_Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/100_days_Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,14 +29,19 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1mCvdYlcH62GvNmgTNzjCZLx9wB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -38,7 +52,7 @@
       <recent name="C:\Forest\GitHub_Master\100_Days_Python\100_days_Python\3 - day - Treasure_Game" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.15-days - Coffee Machine">
+  <component name="RunManager" selected="Python.main">
     <configuration name="100 days Python" type="PythonConfigurationType" factoryName="Python">
       <module name="100_days_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -165,6 +179,69 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="PrettyTable" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100_days_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\jivot\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/16-days- OOP-Basics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16-days- OOP-Basics/PrettyTable.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Turtle" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="100_days_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\jivot\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16-days- OOP-Basics/Turtle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="100_days_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\jivot\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="game_of_guesses" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="100_days_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -178,6 +255,48 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12- day - Game_of_Guesses/game_of_guesses.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="100_days_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\jivot\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/16-days- OOP-Basics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16-days- OOP-Basics/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100_days_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\jivot\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/17-days-Something" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/17-days-Something/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -208,15 +327,25 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.15-days - Coffee Machine" />
+      <item itemvalue="Python.Turtle" />
+      <item itemvalue="Python.main" />
       <item itemvalue="Python.100 days Python" />
       <item itemvalue="Python.5th_day_Password_Generator" />
       <item itemvalue="Python.Blackjack game" />
       <item itemvalue="Python.Calculator" />
-      <item itemvalue="Python.test" />
-      <item itemvalue="Python.game_of_guesses" />
+      <item itemvalue="Python.15-days - Coffee Machine" />
       <item itemvalue="Python.Game - HigherVsLower- Followers_in_Instargam" />
+      <item itemvalue="Python.game_of_guesses" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.PrettyTable" />
+      <item itemvalue="Python.test (1)" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.PrettyTable" />
+        <item itemvalue="Python.test (1)" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -230,6 +359,9 @@
       <updated>1609010474721</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="678" y="133" key="#15-days_-_Coffee_Machine" timestamp="1610131884345">
@@ -272,10 +404,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="198" y="133" key="#The_Secret_Auction/0.0.1920.1040@0.0.1920.1040" timestamp="1609665283662" />
-    <state x="413" y="174" width="1094" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610131942707">
+    <state x="678" y="133" key="#Turtle" timestamp="1610204364292">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="413" y="174" width="1094" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610131942707" />
+    <state x="678" y="133" key="#Turtle/0.0.1920.1040@0.0.1920.1040" timestamp="1610204364292" />
+    <state x="413" y="174" width="1094" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610206515994">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="413" y="174" width="1094" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610206515994" />
     <state x="678" y="133" key="#game_of_guesses" timestamp="1609931037436">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -292,26 +428,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="678" y="133" key="#test/0.0.1920.1040@0.0.1920.1040" timestamp="1609776480997" />
-    <state x="739" y="274" key="FileChooserDialogImpl" timestamp="1610131840139">
+    <state x="739" y="274" key="FileChooserDialogImpl" timestamp="1610204362838">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="739" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1610131840139" />
-    <state width="1919" height="185" key="GridCell.Tab.0.bottom" timestamp="1610188775815">
+    <state x="739" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1610204362838" />
+    <state width="958" height="410" key="GridCell.Tab.0.bottom" timestamp="1610211956980">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1919" height="185" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610188775815" />
-    <state width="1919" height="185" key="GridCell.Tab.0.center" timestamp="1610188775814">
+    <state width="958" height="410" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610211956980" />
+    <state width="958" height="410" key="GridCell.Tab.0.center" timestamp="1610211956980">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1919" height="185" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610188775814" />
-    <state width="1919" height="185" key="GridCell.Tab.0.left" timestamp="1610188775814">
+    <state width="958" height="410" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610211956980" />
+    <state width="958" height="410" key="GridCell.Tab.0.left" timestamp="1610211956980">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1919" height="185" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610188775814" />
-    <state width="1919" height="185" key="GridCell.Tab.0.right" timestamp="1610188775815">
+    <state width="958" height="410" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610211956980" />
+    <state width="958" height="410" key="GridCell.Tab.0.right" timestamp="1610211956980">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1919" height="185" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610188775815" />
+    <state width="958" height="410" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610211956980" />
     <state width="1919" height="190" key="GridCell.Tab.1.bottom" timestamp="1610188177113">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -328,10 +464,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1919" height="190" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610188177113" />
-    <state x="0" y="0" key="SettingsEditor" timestamp="1609685468951">
+    <state x="858" y="186" key="SettingsEditor" timestamp="1610205569729">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="0" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1609685468951" />
+    <state x="858" y="186" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1610205569729" />
     <state x="806" y="435" key="VCS.ChangelistChooser" timestamp="1610186830121">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
