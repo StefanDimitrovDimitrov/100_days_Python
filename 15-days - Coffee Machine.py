@@ -32,15 +32,13 @@ resources = {
 }
 
 
-def available_resources(drink):
-    result = "yes"
+def is_available_resources(drink):
     drink_resources = MENU[drink]["ingredients"]
-
     for item in drink_resources:
         if drink_resources[item] > resources[item]:
-            result = item
-
-    return result
+            print(f"Sorry there is not enough {item}.")
+            return False
+    return True
 
 
 def insert_coins():
@@ -57,13 +55,24 @@ def insert_coins():
     return total
 
 
+def if_enough_coins(user_coins, order, cost):
+    if user_coins >= cost:
+        withdrew_resources(order)
+        print(f"Here is ${(user_coins - cost):.2f} in change.")
+        print(f"Here is your {order} \N{hot beverage} Enjoy!")
+        return True
+    else:
+        print("Sorry that's not enough money. Money refunded.")
+        print(f"You need {cost - user_coins} to order the product")
+        return False
+
+
 def withdrew_resources(drink):
     list_ingredients = MENU[drink]["ingredients"]
 
     for ingredient in list_ingredients:
         withdraw_resources = list_ingredients[ingredient]
-        current_resources = resources[ingredient]
-        current_resources -= withdraw_resources
+        resources[ingredient] -= withdraw_resources
 
 
 def shows_the_resources(resources_in_machine, current_profit):
@@ -74,28 +83,17 @@ def shows_the_resources(resources_in_machine, current_profit):
     return result
 
 
-print("You can order from the Coffee Machine named Fernando: Espresso: $1.50, Latte: $2.50, Cappuccino: $3.0")
-
 order = ''
 
 while order != "off":
+    print("You can order from the Coffee Machine named Fernando: Espresso: $1.50, Latte: $2.50, Cappuccino: $3.0")
     order = input("What would you like? (espresso/latte/cappuccino): ").lower()
 
     if order == "espresso" or order == "latte" or order == "cappuccino":
-        if available_resources(order) == "yes":
-            user_coins = insert_coins()
-            cost_product = MENU[order]["cost"]
-            if user_coins >= cost_product:
-                profit += cost_product
-                withdrew_resources(order)
-                print(f"Here is ${(current_coins - cost_product):.2f} in change.")
-                print(f"Here is your {order} \N{hot beverage} Enjoy!")
-            else:
-                print("Sorry that's not enough money. Money refunded.")
-                print(f"You need {cost_product - current_coins} to order the product")
-                continue
-        else:
-            print(f"Sorry there is not enough {available_resources(order)}.")
+        drink_cost = MENU[order]["cost"]
+        if is_available_resources(order):
+            if if_enough_coins(insert_coins(), order, drink_cost):
+                profit += drink_cost
     elif order == "report":
         print(shows_the_resources(resources, profit))
         continue
