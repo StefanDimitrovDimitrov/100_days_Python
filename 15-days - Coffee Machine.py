@@ -55,7 +55,7 @@ def insert_coins():
     return total
 
 
-def if_enough_coins(user_coins, order, cost):
+def if_enough_coins(user_coins, cost):
     if user_coins >= cost:
         print(f"Here is ${(user_coins - cost):.2f} in change.")
         return True
