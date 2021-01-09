@@ -24,7 +24,6 @@ MENU = {
     }
 }
 
-profit = 0
 resources = {
     "water": 300,
     "milk": 200,
@@ -89,6 +88,7 @@ def shows_the_resources(resources_in_machine, current_profit):
     return result
 
 
+profit = 0
 order = ''
 
 while order != "off":
