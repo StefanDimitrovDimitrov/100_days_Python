@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d39ac67-6e9b-4539-8a63-59aad8f2aa40" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/14-Day-higher_vs_lower/Game - HigherVsLower- Followers_in_Instargam.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14-Day-higher_vs_lower/art.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14-Day-higher_vs_lower/game_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15-days - Coffee Machine.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +39,7 @@
       <recent name="C:\Forest\GitHub_Master\100_Days_Python\100_days_Python\2 - day - Tip_Calculator" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Game - HigherVsLower- Followers_in_Instargam">
+  <component name="RunManager" selected="Python.15-days - Coffee Machine">
     <configuration name="100 days Python" type="PythonConfigurationType" factoryName="Python">
       <module name="100_days_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -55,6 +53,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9 - day - The Sicret Auction/The Secret Auction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="15-days - Coffee Machine" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="100_days_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\jivot\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15-days - Coffee Machine.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Blackjack game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Blackjack game" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="100_days_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -105,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Calculator" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="100_days_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -126,7 +145,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Game - HigherVsLower- Followers_in_Instargam" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Game - HigherVsLower- Followers_in_Instargam" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="100_days_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -147,7 +166,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="game_of_guesses" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="game_of_guesses" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="100_days_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -168,7 +187,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="100_days_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -190,6 +209,7 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.15-days - Coffee Machine" />
       <item itemvalue="Python.100 days Python" />
       <item itemvalue="Python.5th_day_Password_Generator" />
       <item itemvalue="Python.Blackjack game" />
@@ -198,15 +218,6 @@
       <item itemvalue="Python.game_of_guesses" />
       <item itemvalue="Python.Game - HigherVsLower- Followers_in_Instargam" />
     </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.Game - HigherVsLower- Followers_in_Instargam" />
-        <item itemvalue="Python.game_of_guesses" />
-        <item itemvalue="Python.Blackjack game" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.Calculator" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -222,6 +233,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="678" y="133" key="#15-days_-_Coffee_Machine" timestamp="1610131884345">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="678" y="133" key="#15-days_-_Coffee_Machine/0.0.1920.1040@0.0.1920.1040" timestamp="1610131884345" />
     <state x="282" y="137" key="#1st_day_Band_Name_Generator" timestamp="1609010573364">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -258,10 +273,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="198" y="133" key="#The_Secret_Auction/0.0.1920.1040@0.0.1920.1040" timestamp="1609665283662" />
-    <state x="413" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609680233250">
+    <state x="413" y="174" width="1094" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610131942707">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="413" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609680233250" />
+    <state x="413" y="174" width="1094" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610131942707" />
     <state x="678" y="133" key="#game_of_guesses" timestamp="1609931037436">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -278,50 +293,50 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="678" y="133" key="#test/0.0.1920.1040@0.0.1920.1040" timestamp="1609776480997" />
-    <state x="739" y="274" key="FileChooserDialogImpl" timestamp="1609351701068">
+    <state x="739" y="274" key="FileChooserDialogImpl" timestamp="1610131840139">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="739" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1609351701068" />
-    <state width="1919" height="495" key="GridCell.Tab.0.bottom" timestamp="1610012812459">
+    <state x="739" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1610131840139" />
+    <state width="1919" height="190" key="GridCell.Tab.0.bottom" timestamp="1610182901396">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1919" height="495" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610012812459" />
-    <state width="1919" height="495" key="GridCell.Tab.0.center" timestamp="1610012812459">
+    <state width="1919" height="190" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610182901396" />
+    <state width="1919" height="190" key="GridCell.Tab.0.center" timestamp="1610182901396">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1919" height="495" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610012812459" />
-    <state width="1919" height="495" key="GridCell.Tab.0.left" timestamp="1610012812459">
+    <state width="1919" height="190" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610182901396" />
+    <state width="1919" height="190" key="GridCell.Tab.0.left" timestamp="1610182901396">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1919" height="495" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610012812459" />
-    <state width="1919" height="495" key="GridCell.Tab.0.right" timestamp="1610012812459">
+    <state width="1919" height="190" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610182901396" />
+    <state width="1919" height="190" key="GridCell.Tab.0.right" timestamp="1610182901396">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1919" height="495" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610012812459" />
-    <state width="1919" height="495" key="GridCell.Tab.1.bottom" timestamp="1610012812459">
+    <state width="1919" height="190" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610182901396" />
+    <state width="1919" height="190" key="GridCell.Tab.1.bottom" timestamp="1610182901342">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1919" height="495" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610012812459" />
-    <state width="1919" height="495" key="GridCell.Tab.1.center" timestamp="1610012812459">
+    <state width="1919" height="190" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610182901342" />
+    <state width="1919" height="190" key="GridCell.Tab.1.center" timestamp="1610182901342">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1919" height="495" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610012812459" />
-    <state width="1919" height="495" key="GridCell.Tab.1.left" timestamp="1610012812459">
+    <state width="1919" height="190" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610182901342" />
+    <state width="1919" height="190" key="GridCell.Tab.1.left" timestamp="1610182901342">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1919" height="495" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610012812459" />
-    <state width="1919" height="495" key="GridCell.Tab.1.right" timestamp="1610012812459">
+    <state width="1919" height="190" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610182901342" />
+    <state width="1919" height="190" key="GridCell.Tab.1.right" timestamp="1610182901342">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1919" height="495" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610012812459" />
+    <state width="1919" height="190" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610182901342" />
     <state x="0" y="0" key="SettingsEditor" timestamp="1609685468951">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="0" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1609685468951" />
-    <state x="1065" y="416" key="com.intellij.ide.util.TipDialog" timestamp="1609930172047">
+    <state x="1065" y="416" key="com.intellij.ide.util.TipDialog" timestamp="1610131768421">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1065" y="416" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609930172047" />
+    <state x="1065" y="416" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610131768421" />
     <state x="218" y="233" width="672" height="678" key="search.everywhere.popup" timestamp="1609182372618">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
