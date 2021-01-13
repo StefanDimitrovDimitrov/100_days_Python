@@ -2,16 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d39ac67-6e9b-4539-8a63-59aad8f2aa40" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/16-days- OOP-Basics/PrettyTable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16-days- OOP-Basics/Turtle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16-days- OOP-Basics/coffee_maker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16-days- OOP-Basics/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16-days- OOP-Basics/menu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16-days- OOP-Basics/money_machine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17-days-Something/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/100_days_Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/100_days_Python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/jivot.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_17_Quiz/data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_17_Quiz/question_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_17_Quiz/quiz_brain.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17-days-Something/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_17_Quiz/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +36,8 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Day_17_Quiz" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -327,15 +324,15 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Turtle" />
-      <item itemvalue="Python.main" />
       <item itemvalue="Python.100 days Python" />
       <item itemvalue="Python.5th_day_Password_Generator" />
       <item itemvalue="Python.Blackjack game" />
       <item itemvalue="Python.Calculator" />
-      <item itemvalue="Python.15-days - Coffee Machine" />
+      <item itemvalue="Python.Coffee Machine" />
       <item itemvalue="Python.Game - HigherVsLower- Followers_in_Instargam" />
+      <item itemvalue="Python.Turtle" />
       <item itemvalue="Python.game_of_guesses" />
+      <item itemvalue="Python.main" />
       <item itemvalue="Python.test" />
       <item itemvalue="Python.PrettyTable" />
       <item itemvalue="Python.test (1)" />
@@ -428,42 +425,42 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="678" y="133" key="#test/0.0.1920.1040@0.0.1920.1040" timestamp="1609776480997" />
-    <state x="739" y="274" key="FileChooserDialogImpl" timestamp="1610204362838">
+    <state x="739" y="274" key="FileChooserDialogImpl" timestamp="1610524357512">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="739" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1610204362838" />
-    <state width="958" height="410" key="GridCell.Tab.0.bottom" timestamp="1610211956980">
+    <state x="739" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1610524357511" />
+    <state width="956" height="410" key="GridCell.Tab.0.bottom" timestamp="1610258558028">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="958" height="410" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610211956980" />
-    <state width="958" height="410" key="GridCell.Tab.0.center" timestamp="1610211956980">
+    <state width="956" height="410" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610258558028" />
+    <state width="956" height="410" key="GridCell.Tab.0.center" timestamp="1610258558028">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="958" height="410" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610211956980" />
-    <state width="958" height="410" key="GridCell.Tab.0.left" timestamp="1610211956980">
+    <state width="956" height="410" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610258558028" />
+    <state width="956" height="410" key="GridCell.Tab.0.left" timestamp="1610258558028">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="958" height="410" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610211956980" />
-    <state width="958" height="410" key="GridCell.Tab.0.right" timestamp="1610211956980">
+    <state width="956" height="410" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610258558028" />
+    <state width="956" height="410" key="GridCell.Tab.0.right" timestamp="1610258558028">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="958" height="410" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610211956980" />
-    <state width="1919" height="190" key="GridCell.Tab.1.bottom" timestamp="1610188177113">
+    <state width="956" height="410" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610258558028" />
+    <state width="1919" height="190" key="GridCell.Tab.1.bottom" timestamp="1610258558026">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1919" height="190" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610188177113" />
-    <state width="1919" height="190" key="GridCell.Tab.1.center" timestamp="1610188177113">
+    <state width="1919" height="190" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610258558026" />
+    <state width="1919" height="190" key="GridCell.Tab.1.center" timestamp="1610258558026">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1919" height="190" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610188177113" />
-    <state width="1919" height="190" key="GridCell.Tab.1.left" timestamp="1610188177113">
+    <state width="1919" height="190" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610258558026" />
+    <state width="1919" height="190" key="GridCell.Tab.1.left" timestamp="1610258558026">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1919" height="190" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610188177113" />
-    <state width="1919" height="190" key="GridCell.Tab.1.right" timestamp="1610188177113">
+    <state width="1919" height="190" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610258558026" />
+    <state width="1919" height="190" key="GridCell.Tab.1.right" timestamp="1610258558026">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1919" height="190" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610188177113" />
+    <state width="1919" height="190" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610258558026" />
     <state x="858" y="186" key="SettingsEditor" timestamp="1610205569729">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -472,10 +469,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="806" y="435" key="VCS.ChangelistChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1610186830121" />
-    <state x="1065" y="416" key="com.intellij.ide.util.TipDialog" timestamp="1610131768421">
+    <state x="1065" y="416" key="com.intellij.ide.util.TipDialog" timestamp="1610523948844">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1065" y="416" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610131768421" />
+    <state x="1065" y="416" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610523948844" />
     <state x="218" y="233" width="672" height="678" key="search.everywhere.popup" timestamp="1609182372618">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
