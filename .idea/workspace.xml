@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d39ac67-6e9b-4539-8a63-59aad8f2aa40" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/jivot.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_17_Quiz/data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_17_Quiz/question_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_17_Quiz/quiz_brain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19-days-TurtleGames/Turtle_Race.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19-days-TurtleGames/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/17-days-Something/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_17_Quiz/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,10 +34,13 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Day_17_Quiz" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/19-days-TurtleGames" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Forest\GitHub_Master\100_Days_Python\100_days_Python\19-days-TurtleGames" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Forest\GitHub_Master\100_Days_Python\100_days_Python\15-days -Coffee Machine" />
       <recent name="C:\Forest\GitHub_Master\100_Days_Python\100_days_Python\6 - day - The_Maze" />
@@ -49,7 +49,7 @@
       <recent name="C:\Forest\GitHub_Master\100_Days_Python\100_days_Python\3 - day - Treasure_Game" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.Turtle_Race">
     <configuration name="100 days Python" type="PythonConfigurationType" factoryName="Python">
       <module name="100_days_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -218,6 +218,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Turtle_Race" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100_days_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\jivot\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19-days-TurtleGames" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/19-days-TurtleGames/Turtle_Race.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="100_days_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -260,7 +281,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100_days_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -268,7 +289,28 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\jivot\AppData\Local\Programs\Python\Python38-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/16-days- OOP-Basics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19-days-TurtleGames" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/19-days-TurtleGames/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="100_days_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19-days-TurtleGames" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -336,9 +378,13 @@
       <item itemvalue="Python.test" />
       <item itemvalue="Python.PrettyTable" />
       <item itemvalue="Python.test (1)" />
+      <item itemvalue="Python.main (1)" />
+      <item itemvalue="Python.Turtle_Race" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Turtle_Race" />
+        <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.PrettyTable" />
         <item itemvalue="Python.test (1)" />
       </list>
@@ -405,10 +451,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="678" y="133" key="#Turtle/0.0.1920.1040@0.0.1920.1040" timestamp="1610204364292" />
-    <state x="413" y="174" width="1094" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610206515994">
+    <state x="413" y="174" width="1094" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610902684848">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="413" y="174" width="1094" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610206515994" />
+    <state x="413" y="174" width="1094" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610902684848" />
     <state x="678" y="133" key="#game_of_guesses" timestamp="1609931037436">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -425,42 +471,42 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="678" y="133" key="#test/0.0.1920.1040@0.0.1920.1040" timestamp="1609776480997" />
-    <state x="739" y="274" key="FileChooserDialogImpl" timestamp="1610524357512">
+    <state x="739" y="274" key="FileChooserDialogImpl" timestamp="1610902683799">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="739" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1610524357511" />
-    <state width="956" height="410" key="GridCell.Tab.0.bottom" timestamp="1610258558028">
+    <state x="739" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1610902683799" />
+    <state width="1919" height="53" key="GridCell.Tab.0.bottom" timestamp="1610908082774">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="956" height="410" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610258558028" />
-    <state width="956" height="410" key="GridCell.Tab.0.center" timestamp="1610258558028">
+    <state width="1919" height="53" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610908082774" />
+    <state width="1919" height="53" key="GridCell.Tab.0.center" timestamp="1610908082774">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="956" height="410" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610258558028" />
-    <state width="956" height="410" key="GridCell.Tab.0.left" timestamp="1610258558028">
+    <state width="1919" height="53" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610908082774" />
+    <state width="1919" height="53" key="GridCell.Tab.0.left" timestamp="1610908082774">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="956" height="410" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610258558028" />
-    <state width="956" height="410" key="GridCell.Tab.0.right" timestamp="1610258558028">
+    <state width="1919" height="53" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610908082774" />
+    <state width="1919" height="53" key="GridCell.Tab.0.right" timestamp="1610908082774">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="956" height="410" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610258558028" />
-    <state width="1919" height="190" key="GridCell.Tab.1.bottom" timestamp="1610258558026">
+    <state width="1919" height="53" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610908082774" />
+    <state width="908" height="189" key="GridCell.Tab.1.bottom" timestamp="1610906888670">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1919" height="190" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610258558026" />
-    <state width="1919" height="190" key="GridCell.Tab.1.center" timestamp="1610258558026">
+    <state width="908" height="189" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610906888670" />
+    <state width="908" height="189" key="GridCell.Tab.1.center" timestamp="1610906888670">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1919" height="190" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610258558026" />
-    <state width="1919" height="190" key="GridCell.Tab.1.left" timestamp="1610258558026">
+    <state width="908" height="189" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610906888670" />
+    <state width="908" height="189" key="GridCell.Tab.1.left" timestamp="1610906888670">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1919" height="190" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610258558026" />
-    <state width="1919" height="190" key="GridCell.Tab.1.right" timestamp="1610258558026">
+    <state width="908" height="189" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610906888670" />
+    <state width="908" height="189" key="GridCell.Tab.1.right" timestamp="1610906888670">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1919" height="190" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610258558026" />
+    <state width="908" height="189" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610906888670" />
     <state x="858" y="186" key="SettingsEditor" timestamp="1610205569729">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
