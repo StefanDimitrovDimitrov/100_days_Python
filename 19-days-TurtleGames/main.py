@@ -1,19 +1,26 @@
-from turtle import Turtle,Screen
+from turtle import Turtle, Screen
+
 
 tim = Turtle()
 screen = Screen()
 
+
+
 def move_forwards():
     tim.forward(10)
+
 
 def move_backwords():
     tim.backward(10)
 
+
 def move_counter_clockwise():
     tim.left(10)
 
+
 def move_clockwise():
     tim.right(10)
+
 
 def clear():
     tim.clear()
