@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1c10585-496f-4ee5-966c-b585ae0735af" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Food.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scoreboard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/snake.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../19-days-TurtleGames/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../19-days-TurtleGames/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day_17_Quiz/.idea/Day_17_Quiz.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../17-days-Quiz/.idea/Day_17_Quiz.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day_17_Quiz/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../17-days-Quiz/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day_17_Quiz/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../17-days-Quiz/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day_17_Quiz/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../17-days-Quiz/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day_17_Quiz/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../17-days-Quiz/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day_17_Quiz/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../17-days-Quiz/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day_17_Quiz/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/../17-days-Quiz/data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day_17_Quiz/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../17-days-Quiz/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day_17_Quiz/question_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/../17-days-Quiz/question_model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day_17_Quiz/quiz_brain.py" beforeDir="false" afterPath="$PROJECT_DIR$/../17-days-Quiz/quiz_brain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,25 +73,29 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="259" y="277" key="FileChooserDialogImpl" timestamp="1610951105549">
+    <state x="259" y="277" key="FileChooserDialogImpl" timestamp="1611049893322">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="259" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1610951105549" />
-    <state width="611" height="286" key="GridCell.Tab.0.bottom" timestamp="1610962334404">
+    <state x="259" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1611049893322" />
+    <state width="1226" height="288" key="GridCell.Tab.0.bottom" timestamp="1611049894304">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="611" height="286" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610962334404" />
-    <state width="611" height="286" key="GridCell.Tab.0.center" timestamp="1610962334404">
+    <state width="1226" height="288" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611049894304" />
+    <state width="1226" height="288" key="GridCell.Tab.0.center" timestamp="1611049894304">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="611" height="286" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610962334404" />
-    <state width="611" height="286" key="GridCell.Tab.0.left" timestamp="1610962334404">
+    <state width="1226" height="288" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611049894304" />
+    <state width="1226" height="288" key="GridCell.Tab.0.left" timestamp="1611049894304">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="611" height="286" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610962334404" />
-    <state width="611" height="286" key="GridCell.Tab.0.right" timestamp="1610962334404">
+    <state width="1226" height="288" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611049894304" />
+    <state width="1226" height="288" key="GridCell.Tab.0.right" timestamp="1611049894304">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="611" height="286" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610962334404" />
+    <state width="1226" height="288" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611049894304" />
+    <state x="182" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1611049758187">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="182" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611049758187" />
   </component>
 </project>
