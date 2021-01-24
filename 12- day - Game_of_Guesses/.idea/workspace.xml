@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3acfba9-fa5a-4cc8-b9b1-0e7bbff335f3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Day_17_Quiz/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_17_Quiz/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../22-days-PongGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../22-days-PongGame/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +21,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../20-21-day-SnakeGame" />
   </component>
   <component name="RunManager">
     <configuration name="game_of_guesses" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -65,21 +65,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1919" height="707" key="GridCell.Tab.0.bottom" timestamp="1610546192481">
+    <state x="739" y="274" key="FileChooserDialogImpl" timestamp="1611424262617">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1919" height="707" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610546192481" />
-    <state width="1919" height="707" key="GridCell.Tab.0.center" timestamp="1610546192481">
+    <state x="739" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1611424262617" />
+    <state width="1919" height="364" key="GridCell.Tab.0.bottom" timestamp="1611424263933">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1919" height="707" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610546192481" />
-    <state width="1919" height="707" key="GridCell.Tab.0.left" timestamp="1610546192481">
+    <state width="1919" height="364" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611424263933" />
+    <state width="1919" height="364" key="GridCell.Tab.0.center" timestamp="1611424263927">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1919" height="707" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610546192481" />
-    <state width="1919" height="707" key="GridCell.Tab.0.right" timestamp="1610546192481">
+    <state width="1919" height="364" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611424263927" />
+    <state width="1919" height="364" key="GridCell.Tab.0.left" timestamp="1611424263927">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1919" height="707" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610546192481" />
+    <state width="1919" height="364" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611424263927" />
+    <state width="1919" height="364" key="GridCell.Tab.0.right" timestamp="1611424263927">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1919" height="364" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611424263927" />
   </component>
 </project>
