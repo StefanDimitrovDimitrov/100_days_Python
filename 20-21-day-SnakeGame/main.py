@@ -6,7 +6,7 @@ from scoreboard import Scoreboard
 from snake import Snake
 
 screen = Screen()
-screen.setup(width=800, height=800)
+screen.setup(width=1000, height=1000)
 screen.bgcolor("black")
 screen.title("My Snake Game")
 screen.tracer(0)
