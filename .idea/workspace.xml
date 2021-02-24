@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d39ac67-6e9b-4539-8a63-59aad8f2aa40" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/22-days-PongGame/main_pong.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22-days-PongGame/paddle.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20-day-SnakeGame/.idea/20-day-SnakeGame.iml" beforeDir="false" afterPath="$PROJECT_DIR$/20-21-day-SnakeGame/.idea/20-day-SnakeGame.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20-day-SnakeGame/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/20-21-day-SnakeGame/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20-day-SnakeGame/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/20-21-day-SnakeGame/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20-day-SnakeGame/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/20-21-day-SnakeGame/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20-day-SnakeGame/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/20-21-day-SnakeGame/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20-day-SnakeGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/20-21-day-SnakeGame/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20-day-SnakeGame/Food.py" beforeDir="false" afterPath="$PROJECT_DIR$/20-21-day-SnakeGame/Food.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20-day-SnakeGame/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/20-21-day-SnakeGame/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20-day-SnakeGame/scoreboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/20-21-day-SnakeGame/scoreboard.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20-day-SnakeGame/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/20-21-day-SnakeGame/snake.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +32,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/22-days-PongGame" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/20-21-day-SnakeGame" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -59,7 +47,7 @@
       <recent name="C:\Forest\GitHub_Master\100_Days_Python\100_days_Python\3 - day - Treasure_Game" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main_pong">
+  <component name="RunManager" selected="Python.main (3)">
     <configuration name="100 days Python" type="PythonConfigurationType" factoryName="Python">
       <module name="100_days_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -178,27 +166,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14-Day-higher_vs_lower/Game - HigherVsLower- Followers_in_Instargam.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="PrettyTable" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="100_days_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\jivot\AppData\Local\Programs\Python\Python38-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/16-days- OOP-Basics" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16-days- OOP-Basics/PrettyTable.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -333,6 +300,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100_days_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\jivot\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20-21-day-SnakeGame" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20-21-day-SnakeGame/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="100_days_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -404,22 +392,22 @@
       <item itemvalue="Python.Coffee Machine" />
       <item itemvalue="Python.Game - HigherVsLower- Followers_in_Instargam" />
       <item itemvalue="Python.Turtle" />
-      <item itemvalue="Python.game_of_guesses" />
-      <item itemvalue="Python.main" />
-      <item itemvalue="Python.test" />
-      <item itemvalue="Python.PrettyTable" />
       <item itemvalue="Python.Turtle_Race" />
+      <item itemvalue="Python.game_of_guesses" />
       <item itemvalue="Python.main (1)" />
       <item itemvalue="Python.main (2)" />
+      <item itemvalue="Python.main (3)" />
+      <item itemvalue="Python.main" />
       <item itemvalue="Python.main_pong" />
+      <item itemvalue="Python.test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main_pong" />
-        <item itemvalue="Python.main (2)" />
+        <item itemvalue="Python.main (3)" />
         <item itemvalue="Python.Turtle_Race" />
         <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python.PrettyTable" />
+        <item itemvalue="Python.main_pong" />
+        <item itemvalue="Python.main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -508,26 +496,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="131" y="125" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1610917393495" />
-    <state x="739" y="274" key="FileChooserDialogImpl" timestamp="1611148719215">
+    <state x="739" y="274" key="FileChooserDialogImpl" timestamp="1614152829402">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="739" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1611148719215" />
-    <state width="956" height="278" key="GridCell.Tab.0.bottom" timestamp="1611148722769">
+    <state x="739" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1614152829402" />
+    <state width="1919" height="164" key="GridCell.Tab.0.bottom" timestamp="1613891773052">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="956" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611148722769" />
-    <state width="956" height="278" key="GridCell.Tab.0.center" timestamp="1611148722769">
+    <state width="1919" height="164" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1613891773052" />
+    <state width="1919" height="164" key="GridCell.Tab.0.center" timestamp="1613891773052">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="956" height="278" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611148722769" />
-    <state width="956" height="278" key="GridCell.Tab.0.left" timestamp="1611148722769">
+    <state width="1919" height="164" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1613891773052" />
+    <state width="1919" height="164" key="GridCell.Tab.0.left" timestamp="1613891773052">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="956" height="278" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611148722769" />
-    <state width="956" height="278" key="GridCell.Tab.0.right" timestamp="1611148722769">
+    <state width="1919" height="164" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1613891773052" />
+    <state width="1919" height="164" key="GridCell.Tab.0.right" timestamp="1613891773052">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="956" height="278" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611148722769" />
+    <state width="1919" height="164" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1613891773052" />
     <state width="908" height="189" key="GridCell.Tab.1.bottom" timestamp="1610949122191">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -552,10 +540,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="806" y="435" key="VCS.ChangelistChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1610186830121" />
-    <state x="1065" y="416" key="com.intellij.ide.util.TipDialog" timestamp="1610523948844">
+    <state x="1065" y="416" key="com.intellij.ide.util.TipDialog" timestamp="1614152195277">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1065" y="416" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610523948844" />
+    <state x="1065" y="416" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1614152195277" />
     <state x="218" y="233" width="672" height="678" key="search.everywhere.popup" timestamp="1609182372618">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
