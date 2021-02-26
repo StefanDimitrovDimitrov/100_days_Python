@@ -2,7 +2,82 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d39ac67-6e9b-4539-8a63-59aad8f2aa40" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/20-21-day-SnakeGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/20-21-day-SnakeGame/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25-day - CVS files/2018_Central_Park_Squirrel_Census_-_Squirrel_Data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25-day - CVS files/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25-day - CVS files/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25-day - CVS files/squirrel_count.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25-day - CVS files/us-states-game-start/50_states.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25-day - CVS files/us-states-game-start/blank_states_img.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25-day - CVS files/us-states-game-start/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25-day - CVS files/weather_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15-days -Coffee Machine/Coffee Machine.py" beforeDir="false" afterPath="$PROJECT_DIR$/15-day - Coffee Machine/Coffee Machine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16-days- OOP-Basics/PrettyTable.py" beforeDir="false" afterPath="$PROJECT_DIR$/16-day - OOP-Basics/PrettyTable.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16-days- OOP-Basics/Turtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/16-day - OOP-Basics/Turtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16-days- OOP-Basics/coffee_maker.py" beforeDir="false" afterPath="$PROJECT_DIR$/16-day - OOP-Basics/coffee_maker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16-days- OOP-Basics/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/16-day - OOP-Basics/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16-days- OOP-Basics/menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/16-day - OOP-Basics/menu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16-days- OOP-Basics/money_machine.py" beforeDir="false" afterPath="$PROJECT_DIR$/16-day - OOP-Basics/money_machine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17-days-Quiz/.idea/Day_17_Quiz.iml" beforeDir="false" afterPath="$PROJECT_DIR$/17-day - Quiz/.idea/Day_17_Quiz.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17-days-Quiz/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/17-day - Quiz/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17-days-Quiz/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/17-day - Quiz/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17-days-Quiz/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/17-day - Quiz/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17-days-Quiz/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/17-day - Quiz/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17-days-Quiz/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/17-day - Quiz/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17-days-Quiz/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/17-day - Quiz/data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17-days-Quiz/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/17-day - Quiz/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17-days-Quiz/question_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/17-day - Quiz/question_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17-days-Quiz/quiz_brain.py" beforeDir="false" afterPath="$PROJECT_DIR$/17-day - Quiz/quiz_brain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/19-days-TurtleGames/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/19-day - TurtleGames/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/19-days-TurtleGames/.idea/19-days-TurtleGames.iml" beforeDir="false" afterPath="$PROJECT_DIR$/19-day - TurtleGames/.idea/19-days-TurtleGames.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/19-days-TurtleGames/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/19-day - TurtleGames/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/19-days-TurtleGames/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/19-day - TurtleGames/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/19-days-TurtleGames/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/19-day - TurtleGames/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/19-days-TurtleGames/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/19-day - TurtleGames/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/19-days-TurtleGames/Turtle_Race.py" beforeDir="false" afterPath="$PROJECT_DIR$/19-day - TurtleGames/Turtle_Race.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/19-days-TurtleGames/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/19-day - TurtleGames/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22-days-PongGame/.idea/22-days-PongGame.iml" beforeDir="false" afterPath="$PROJECT_DIR$/22-day - PongGame/.idea/22-days-PongGame.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22-days-PongGame/.idea/dictionaries/jivot.xml" beforeDir="false" afterPath="$PROJECT_DIR$/22-day - PongGame/.idea/dictionaries/jivot.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22-days-PongGame/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/22-day - PongGame/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22-days-PongGame/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/22-day - PongGame/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22-days-PongGame/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/22-day - PongGame/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22-days-PongGame/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/22-day - PongGame/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22-days-PongGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/22-day - PongGame/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22-days-PongGame/ball.py" beforeDir="false" afterPath="$PROJECT_DIR$/22-day - PongGame/ball.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22-days-PongGame/main_pong.py" beforeDir="false" afterPath="$PROJECT_DIR$/22-day - PongGame/main_pong.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22-days-PongGame/paddle.py" beforeDir="false" afterPath="$PROJECT_DIR$/22-day - PongGame/paddle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22-days-PongGame/scoreboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/22-day - PongGame/scoreboard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23 -days - Turtle_Crossing_Hightway/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/23 -day - Turtle_Crossing_Hightway/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23 -days - Turtle_Crossing_Hightway/.idea/23 -days - Turtle_Crossing_Hightway.iml" beforeDir="false" afterPath="$PROJECT_DIR$/23 -day - Turtle_Crossing_Hightway/.idea/23 -days - Turtle_Crossing_Hightway.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23 -days - Turtle_Crossing_Hightway/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/23 -day - Turtle_Crossing_Hightway/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23 -days - Turtle_Crossing_Hightway/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/23 -day - Turtle_Crossing_Hightway/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23 -days - Turtle_Crossing_Hightway/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/23 -day - Turtle_Crossing_Hightway/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23 -days - Turtle_Crossing_Hightway/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/23 -day - Turtle_Crossing_Hightway/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23 -days - Turtle_Crossing_Hightway/car_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/23 -day - Turtle_Crossing_Hightway/car_manager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23 -days - Turtle_Crossing_Hightway/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/23 -day - Turtle_Crossing_Hightway/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23 -days - Turtle_Crossing_Hightway/player.py" beforeDir="false" afterPath="$PROJECT_DIR$/23 -day - Turtle_Crossing_Hightway/player.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23 -days - Turtle_Crossing_Hightway/scoreboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/23 -day - Turtle_Crossing_Hightway/scoreboard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/24 - days - Files/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/24 - day - Files/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/24 - days - Files/.idea/24 - days - Files.iml" beforeDir="false" afterPath="$PROJECT_DIR$/24 - day - Files/.idea/24 - days - Files.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/24 - days - Files/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/24 - day - Files/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/24 - days - Files/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/24 - day - Files/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/24 - days - Files/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/24 - day - Files/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/24 - days - Files/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/24 - day - Files/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/24 - days - Files/Mail Merge Project Start/Input/Letters/starting_letter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/24 - day - Files/Mail Merge Project Start/Input/Letters/starting_letter.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/24 - days - Files/Mail Merge Project Start/Input/Names/invited_names.txt" beforeDir="false" afterPath="$PROJECT_DIR$/24 - day - Files/Mail Merge Project Start/Input/Names/invited_names.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/24 - days - Files/Mail Merge Project Start/Output/ReadyToSend/example.txt" beforeDir="false" afterPath="$PROJECT_DIR$/24 - day - Files/Mail Merge Project Start/Output/ReadyToSend/example.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/24 - days - Files/Mail Merge Project Start/Output/ReadyToSend/letter_for_Aang.txt" beforeDir="false" afterPath="$PROJECT_DIR$/24 - day - Files/Mail Merge Project Start/Output/ReadyToSend/letter_for_Aang.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/24 - days - Files/Mail Merge Project Start/Output/ReadyToSend/letter_for_Appa.txt" beforeDir="false" afterPath="$PROJECT_DIR$/24 - day - Files/Mail Merge Project Start/Output/ReadyToSend/letter_for_Appa.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/24 - days - Files/Mail Merge Project Start/Output/ReadyToSend/letter_for_Katara.txt" beforeDir="false" afterPath="$PROJECT_DIR$/24 - day - Files/Mail Merge Project Start/Output/ReadyToSend/letter_for_Katara.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/24 - days - Files/Mail Merge Project Start/Output/ReadyToSend/letter_for_Momo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/24 - day - Files/Mail Merge Project Start/Output/ReadyToSend/letter_for_Momo.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/24 - days - Files/Mail Merge Project Start/Output/ReadyToSend/letter_for_Sokka.txt" beforeDir="false" afterPath="$PROJECT_DIR$/24 - day - Files/Mail Merge Project Start/Output/ReadyToSend/letter_for_Sokka.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/24 - days - Files/Mail Merge Project Start/Output/ReadyToSend/letter_for_Toph.txt" beforeDir="false" afterPath="$PROJECT_DIR$/24 - day - Files/Mail Merge Project Start/Output/ReadyToSend/letter_for_Toph.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/24 - days - Files/Mail Merge Project Start/Output/ReadyToSend/letter_for_Uncle Iroh.txt" beforeDir="false" afterPath="$PROJECT_DIR$/24 - day - Files/Mail Merge Project Start/Output/ReadyToSend/letter_for_Uncle Iroh.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/24 - days - Files/Mail Merge Project Start/Output/ReadyToSend/letter_for_Zuko.txt" beforeDir="false" afterPath="$PROJECT_DIR$/24 - day - Files/Mail Merge Project Start/Output/ReadyToSend/letter_for_Zuko.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/24 - days - Files/Mail Merge Project Start/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/24 - day - Files/Mail Merge Project Start/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/24 - days - Files/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/24 - day - Files/demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/24 - days - Files/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/24 - day - Files/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/24 - days - Files/new_file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/24 - day - Files/new_file.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,13 +107,10 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/24 - days - Files" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/25-day - CVS files" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Forest\GitHub_Master\100_Days_Python\100_days_Python\19-days-TurtleGames" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Forest\GitHub_Master\100_Days_Python\100_days_Python\15-days -Coffee Machine" />
       <recent name="C:\Forest\GitHub_Master\100_Days_Python\100_days_Python\6 - day - The_Maze" />
@@ -46,8 +118,12 @@
       <recent name="C:\Forest\GitHub_Master\100_Days_Python\100_days_Python\4 - day - Stone_Paper_Scissors" />
       <recent name="C:\Forest\GitHub_Master\100_Days_Python\100_days_Python\3 - day - Treasure_Game" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Forest\GitHub_Master\100_Days_Python\100_days_Python\25-day - CVS files" />
+      <recent name="C:\Forest\GitHub_Master\100_Days_Python\100_days_Python\19-days-TurtleGames" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.main (3)">
+  <component name="RunManager" selected="Python.main (4)">
     <configuration name="100 days Python" type="PythonConfigurationType" factoryName="Python">
       <module name="100_days_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -237,6 +313,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100_days_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\jivot\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/25-day - CVS files" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Forest\GitHub_Master\100_Days_Python\100_days_Python\25-day - CVS files\demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="game_of_guesses" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="100_days_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -258,27 +355,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="100_days_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\jivot\AppData\Local\Programs\Python\Python38-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19-days-TurtleGames" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/19-days-TurtleGames/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100_days_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -287,11 +363,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\jivot\AppData\Local\Programs\Python\Python38-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20-day-SnakeGame" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/25-day - CVS files" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20-day-SnakeGame/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/25-day - CVS files/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -321,6 +397,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100_days_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\jivot\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/25-day - CVS files/us-states-game-start" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/25-day - CVS files/us-states-game-start/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="100_days_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -334,27 +431,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16-days- OOP-Basics/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main_pong" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="100_days_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\jivot\AppData\Local\Programs\Python\Python38-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/22-days-PongGame" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/22-days-PongGame/main_pong.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -396,18 +472,18 @@
       <item itemvalue="Python.main" />
       <item itemvalue="Python.test" />
       <item itemvalue="Python.Turtle_Race" />
-      <item itemvalue="Python.main (1)" />
-      <item itemvalue="Python.main (2)" />
       <item itemvalue="Python.main (3)" />
-      <item itemvalue="Python.main_pong" />
+      <item itemvalue="Python.demo" />
+      <item itemvalue="Python.main (2)" />
+      <item itemvalue="Python.main (4)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (4)" />
+        <item itemvalue="Python.main (2)" />
+        <item itemvalue="Python.demo" />
         <item itemvalue="Python.main (3)" />
         <item itemvalue="Python.Turtle_Race" />
-        <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python.main_pong" />
-        <item itemvalue="Python.main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -500,22 +576,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="739" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1614181248063" />
-    <state width="1919" height="164" key="GridCell.Tab.0.bottom" timestamp="1613891773052">
+    <state width="958" height="282" key="GridCell.Tab.0.bottom" timestamp="1614342888794">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1919" height="164" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1613891773052" />
-    <state width="1919" height="164" key="GridCell.Tab.0.center" timestamp="1613891773052">
+    <state width="958" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1614342888794" />
+    <state width="958" height="282" key="GridCell.Tab.0.center" timestamp="1614342888794">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1919" height="164" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1613891773052" />
-    <state width="1919" height="164" key="GridCell.Tab.0.left" timestamp="1613891773052">
+    <state width="958" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1614342888794" />
+    <state width="958" height="282" key="GridCell.Tab.0.left" timestamp="1614342888794">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1919" height="164" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1613891773052" />
-    <state width="1919" height="164" key="GridCell.Tab.0.right" timestamp="1613891773052">
+    <state width="958" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1614342888794" />
+    <state width="958" height="282" key="GridCell.Tab.0.right" timestamp="1614342888794">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1919" height="164" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1613891773052" />
+    <state width="958" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1614342888794" />
     <state width="908" height="189" key="GridCell.Tab.1.bottom" timestamp="1610949122191">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -568,9 +644,14 @@
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/15-days -Coffee Machine/Coffee Machine.py</url>
+          <url>file://$PROJECT_DIR$/15-day - Coffee Machine/Coffee Machine.py</url>
           <line>95</line>
           <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/25-day - CVS files/us-states-game-start/main.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="32" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
