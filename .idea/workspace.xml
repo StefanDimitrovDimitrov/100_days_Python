@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d39ac67-6e9b-4539-8a63-59aad8f2aa40" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/26-day-List Comprehension/NATO-alphabet-start/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26-day-List Comprehension/NATO-alphabet-start/nato_phonetic_alphabet.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27-day-Tkinter/converter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27-day-Tkinter/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27-day-Tkinter/more gadgets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27-day-Tkinter/playground.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/25-day - CVS files/us-states-game-start/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/25-day - CVS files/us-states-game-start/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/26-day-List Comprehension/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/26-day-List Comprehension/demo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +52,7 @@
       <recent name="C:\Forest\GitHub_Master\100_Days_Python\100_days_Python\19-days-TurtleGames" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (1)">
+  <component name="RunManager" selected="Python.converter">
     <configuration name="100 days Python" type="PythonConfigurationType" factoryName="Python">
       <module name="100_days_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -221,7 +221,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="converter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100_days_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -229,11 +229,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\jivot\AppData\Local\Programs\Python\Python38-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/26-day-List Comprehension" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/27-day-Tkinter" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/26-day-List Comprehension/demo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/27-day-Tkinter/converter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -242,7 +242,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="demo (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100_days_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -250,11 +250,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\jivot\AppData\Local\Programs\Python\Python38-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/25-day - CVS files" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/27-day-Tkinter" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Forest\GitHub_Master\100_Days_Python\100_days_Python\25-day - CVS files\demo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/27-day-Tkinter/demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -305,48 +305,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="100_days_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\jivot\AppData\Local\Programs\Python\Python38-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/25-day - CVS files" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/25-day - CVS files/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="100_days_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\jivot\AppData\Local\Programs\Python\Python38-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/25-day - CVS files/us-states-game-start" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/25-day - CVS files/us-states-game-start/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="100_days_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -360,6 +318,48 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16-days- OOP-Basics/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="more gadgets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100_days_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\jivot\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/27-day-Tkinter" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/27-day-Tkinter/more gadgets.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="playground" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100_days_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\jivot\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/27-day-Tkinter" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/27-day-Tkinter/playground.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -400,19 +400,19 @@
       <item itemvalue="Python.game_of_guesses" />
       <item itemvalue="Python.main" />
       <item itemvalue="Python.test" />
-      <item itemvalue="Python.demo" />
-      <item itemvalue="Python.main (2)" />
-      <item itemvalue="Python.main (4)" />
-      <item itemvalue="Python.demo (1)" />
       <item itemvalue="Python.main (1)" />
+      <item itemvalue="Python.demo (2)" />
+      <item itemvalue="Python.playground" />
+      <item itemvalue="Python.more gadgets" />
+      <item itemvalue="Python.converter" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.converter" />
+        <item itemvalue="Python.demo (2)" />
+        <item itemvalue="Python.more gadgets" />
+        <item itemvalue="Python.playground" />
         <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python.demo (1)" />
-        <item itemvalue="Python.main (4)" />
-        <item itemvalue="Python.main (2)" />
-        <item itemvalue="Python.demo" />
       </list>
     </recent_temporary>
   </component>
@@ -505,22 +505,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="739" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1614403205581" />
-    <state width="1411" height="189" key="GridCell.Tab.0.bottom" timestamp="1614452642116">
+    <state width="924" height="276" key="GridCell.Tab.0.bottom" timestamp="1614508166819">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1411" height="189" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1614452642116" />
-    <state width="1411" height="189" key="GridCell.Tab.0.center" timestamp="1614452642116">
+    <state width="924" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1614508166819" />
+    <state width="924" height="276" key="GridCell.Tab.0.center" timestamp="1614508166819">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1411" height="189" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1614452642116" />
-    <state width="1411" height="189" key="GridCell.Tab.0.left" timestamp="1614452642116">
+    <state width="924" height="276" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1614508166819" />
+    <state width="924" height="276" key="GridCell.Tab.0.left" timestamp="1614508166819">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1411" height="189" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1614452642116" />
-    <state width="1411" height="189" key="GridCell.Tab.0.right" timestamp="1614452642116">
+    <state width="924" height="276" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1614508166819" />
+    <state width="924" height="276" key="GridCell.Tab.0.right" timestamp="1614508166819">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1411" height="189" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1614452642116" />
+    <state width="924" height="276" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1614508166819" />
     <state width="1411" height="189" key="GridCell.Tab.1.bottom" timestamp="1614452642116">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -545,10 +545,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="806" y="435" key="VCS.ChangelistChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1610186830121" />
-    <state x="1065" y="416" key="com.intellij.ide.util.TipDialog" timestamp="1614403178972">
+    <state x="1065" y="416" key="com.intellij.ide.util.TipDialog" timestamp="1614495988346">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1065" y="416" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1614403178972" />
+    <state x="1065" y="416" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1614495988346" />
     <state x="515" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614447432452">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
