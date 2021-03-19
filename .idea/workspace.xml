@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d39ac67-6e9b-4539-8a63-59aad8f2aa40" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/27-day-Tkinter/converter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/27-day-Tkinter/demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/27-day-Tkinter/more gadgets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/27-day-Tkinter/playground.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +32,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/25-day - CVS files" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/28-day-Tkinter" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -397,14 +393,14 @@
       <item itemvalue="Python.Coffee Machine" />
       <item itemvalue="Python.Game - HigherVsLower- Followers_in_Instargam" />
       <item itemvalue="Python.Turtle" />
-      <item itemvalue="Python.game_of_guesses" />
-      <item itemvalue="Python.main" />
-      <item itemvalue="Python.test" />
-      <item itemvalue="Python.main (1)" />
-      <item itemvalue="Python.demo (2)" />
-      <item itemvalue="Python.playground" />
-      <item itemvalue="Python.more gadgets" />
       <item itemvalue="Python.converter" />
+      <item itemvalue="Python.demo (2)" />
+      <item itemvalue="Python.game_of_guesses" />
+      <item itemvalue="Python.main (1)" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.more gadgets" />
+      <item itemvalue="Python.playground" />
+      <item itemvalue="Python.test" />
     </list>
     <recent_temporary>
       <list>
@@ -501,26 +497,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="131" y="125" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1610917393495" />
-    <state x="739" y="274" key="FileChooserDialogImpl" timestamp="1614403205581">
+    <state x="739" y="274" key="FileChooserDialogImpl" timestamp="1616078585678">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="739" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1614403205581" />
-    <state width="924" height="276" key="GridCell.Tab.0.bottom" timestamp="1614508166819">
+    <state x="739" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1616078585678" />
+    <state width="956" height="276" key="GridCell.Tab.0.bottom" timestamp="1614518607897">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="924" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1614508166819" />
-    <state width="924" height="276" key="GridCell.Tab.0.center" timestamp="1614508166819">
+    <state width="956" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1614518607897" />
+    <state width="956" height="276" key="GridCell.Tab.0.center" timestamp="1614518607897">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="924" height="276" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1614508166819" />
-    <state width="924" height="276" key="GridCell.Tab.0.left" timestamp="1614508166819">
+    <state width="956" height="276" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1614518607897" />
+    <state width="956" height="276" key="GridCell.Tab.0.left" timestamp="1614518607896">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="924" height="276" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1614508166819" />
-    <state width="924" height="276" key="GridCell.Tab.0.right" timestamp="1614508166819">
+    <state width="956" height="276" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1614518607896" />
+    <state width="956" height="276" key="GridCell.Tab.0.right" timestamp="1614518607897">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="924" height="276" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1614508166819" />
+    <state width="956" height="276" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1614518607897" />
     <state width="1411" height="189" key="GridCell.Tab.1.bottom" timestamp="1614452642116">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -545,10 +541,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="806" y="435" key="VCS.ChangelistChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1610186830121" />
-    <state x="1065" y="416" key="com.intellij.ide.util.TipDialog" timestamp="1614495988346">
+    <state x="1065" y="416" key="com.intellij.ide.util.TipDialog" timestamp="1616078566881">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1065" y="416" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1614495988346" />
+    <state x="1065" y="416" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616078566881" />
     <state x="515" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614447432452">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
