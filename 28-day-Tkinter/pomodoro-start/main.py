@@ -19,6 +19,7 @@ def reset():
     check_markers.config(text="")
     global reps
     reps = 1
+    button_start["state"] = "active"
 
 # ---------------------------- TIMER MECHANISM ------------------------------- # 
 def start_timer():
@@ -26,7 +27,7 @@ def start_timer():
     work_sec = WORK_MIN * 60
     short_break_sec = SHORT_BREAK_MIN * 60
     long_break_sec = LONG_BREAK_MIN * 60
-
+    button_start["state"] = "disable"
     if reps % 2 != 0:
         count_down(work_sec)
         my_label.config(text='Work', fg=GREEN)
