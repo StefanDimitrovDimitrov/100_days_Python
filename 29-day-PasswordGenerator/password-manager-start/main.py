@@ -96,6 +96,7 @@ password = Label(text='Password:')
 web_entry = Entry(width=33)
 email_entry = Entry(width=52)
 pass_entry = Entry(width=33)
+
 email_entry.insert(0, 'stefan.dimitrov.dimitrov@gmail.com')
 pass_btn = Button(text='Generate Password', width=15, command=generate)
 search_btn = Button(text='Search', width=15, command=search, )
