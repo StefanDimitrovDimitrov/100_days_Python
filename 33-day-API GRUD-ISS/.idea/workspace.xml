@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee9591d9-04d0-4080-9828-1932566bd715" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/final_project.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +28,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../34-day-quiz - advanced" />
   </component>
   <component name="RunManager" selected="Python.lat_lng">
     <configuration name="lat_lng" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -118,10 +116,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="739" y="274" key="FileChooserDialogImpl" timestamp="1617285466687">
+    <state x="739" y="274" key="FileChooserDialogImpl" timestamp="1617351603764">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="739" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1617285466687" />
+    <state x="739" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1617351603764" />
     <state width="950" height="288" key="GridCell.Tab.0.bottom" timestamp="1617288507872">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -138,9 +136,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="950" height="288" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617288507872" />
-    <state x="655" y="425" key="com.intellij.ide.util.TipDialog" timestamp="1617284655370">
+    <state x="655" y="425" key="com.intellij.ide.util.TipDialog" timestamp="1617349504214">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="655" y="425" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1617284655370" />
+    <state x="655" y="425" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1617349504214" />
   </component>
 </project>
