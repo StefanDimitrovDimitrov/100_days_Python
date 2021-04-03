@@ -108,7 +108,6 @@ Unnamed: 0,en,bg
 109,stop,Спри се
 110,call,обади се
 111,after,след
-112,won,Спечелени
 113,talk,говоря
 114,away,далеч
 115,than,от
@@ -137,7 +136,6 @@ Unnamed: 0,en,bg
 139,place,място
 140,ever,някога
 141,feel,Усещам
-142,guys,момчета
 143,father,баща
 144,guy,човек
 145,made,изработен
@@ -150,7 +148,6 @@ Unnamed: 0,en,bg
 152,hello,Здравейте
 153,nice,приятен
 154,believe,вярвам
-155,girl,момиче
 156,someone,някой
 157,fine,глоба
 158,thanks,Благодаря
@@ -164,7 +161,6 @@ Unnamed: 0,en,bg
 166,being,същество
 167,course,курс
 168,stay,престой
-169,left,наляво
 170,dad,татко
 171,enough,достатъчно
 172,happened,се случи
@@ -175,7 +171,6 @@ Unnamed: 0,en,bg
 177,world,свят
 178,bad,лошо
 179,might,"биха могли, може"
-180,three,три
 181,today,днес
 182,listen,слушам
 183,another,друг
@@ -222,7 +217,6 @@ Unnamed: 0,en,bg
 224,room,стая
 225,wouldn,нямаше
 226,already,вече
-227,move,ход
 229,seen,видян
 230,live,на живо
 231,miss,мис
@@ -267,7 +261,6 @@ Unnamed: 0,en,bg
 270,run,тичам
 271,wanna,искам
 272,hard,твърд
-273,ah,ах
 274,alone,сам
 275,myself,себе си
 276,school,училище
@@ -300,7 +293,6 @@ Unnamed: 0,en,bg
 304,says,казва
 305,TRUE,ВЯРНО
 306,die,умирам
-307,heart,сърце
 308,soon,скоро
 309,each,всеки
 310,worry,притеснение
@@ -314,7 +306,6 @@ Unnamed: 0,en,bg
 318,beautiful,красив
 319,doctor,лекар
 320,sit,седнете
-321,eat,Яжте
 322,thinking,мислене
 323,young,млад
 324,second,втори
@@ -347,7 +338,6 @@ Unnamed: 0,en,bg
 352,shut,затворена
 353,aren,нали
 354,hit,хит
-355,taking,поемане
 356,easy,лесно
 357,times,пъти
 358,check,проверка
@@ -362,7 +352,6 @@ Unnamed: 0,en,bg
 367,asked,попитах
 368,somebody,някой
 369,mine,моята
-370,making,приготвяне
 371,body,тяло
 372,afraid,уплашен
 373,sleep,сън
@@ -395,12 +384,10 @@ Unnamed: 0,en,bg
 401,rest,Почивка
 402,married,женен
 403,fire,пожар
-404,game,игра
 405,nobody,Никой
 406,mr,г-н
 407,children,деца
 409,stand,стоя
-410,read,Прочети
 411,though,въпреки че
 412,cut,разрез
 413,started,започна
@@ -460,7 +447,6 @@ Unnamed: 0,en,bg
 468,line,линия
 469,send,изпрати
 470,news,Новини
-471,stupid,тъп
 472,bed,легло
 473,hurry,бързам
 474,full,пълен
@@ -503,7 +489,6 @@ Unnamed: 0,en,bg
 511,leaving,оставяйки
 512,shouldn,Не трябваше
 513,running,тичане
-514,boss,шеф
 515,alright,добре
 516,promise,обещание
 517,taken,взета
@@ -512,7 +497,6 @@ Unnamed: 0,en,bg
 520,book,Книга
 521,white,бял
 523,anybody,някой
-524,small,малък
 525,perfect,съвършен
 526,cause,кауза
 527,lives,живота
@@ -545,7 +529,6 @@ Unnamed: 0,en,bg
 555,glad,доволен
 556,control,контрол
 557,hmm,хмм
-558,human,човек
 559,drive,път
 560,hair,коса
 561,jack,крик
@@ -611,7 +594,6 @@ Unnamed: 0,en,bg
 621,ooh,ооо
 622,fault,вина
 623,straight,направо
-624,takes,отнема
 625,song,песен
 626,future,бъдеще
 627,gentlemen,господа
@@ -664,12 +646,10 @@ Unnamed: 0,en,bg
 674,missing,липсващ
 675,choice,избор
 676,happening,случва
-677,chief,главен
 678,wedding,сватба
 679,strange,странен
 680,general,общ
 681,pain,болка
-682,am,ч
 683,kidding,майтап
 684,decided,реши
 685,ya,у а
@@ -731,7 +711,6 @@ Unnamed: 0,en,bg
 741,round,кръгъл
 742,expect,очаквам
 743,sing,Пей
-744,terrible,ужасен
 745,george,Джордж
 746,bag,чанта
 747,history,история
@@ -767,7 +746,6 @@ Unnamed: 0,en,bg
 778,dangerous,опасно
 779,bill,законопроект
 780,york,йорк
-781,army,армия
 782,lead,водя
 783,bought,купих
 784,finished,завършен
@@ -790,7 +768,6 @@ Unnamed: 0,en,bg
 801,d,д
 802,peace,мир
 803,forgot,забравих
-804,force,сила
 805,short,къс
 806,normal,нормален
 807,charlie,Чарли
@@ -838,7 +815,6 @@ Unnamed: 0,en,bg
 850,major,голям
 851,stick,пръчка
 852,offer,оферта
-853,difficult,трудно
 854,smart,умен
 855,personal,персонален
 856,record,рекорд
@@ -862,7 +838,6 @@ Unnamed: 0,en,bg
 874,forward,напред
 875,angry,ядосан
 876,park,парк
-877,soul,душа
 878,fighting,борба
 879,peter,Петър
 880,rich,богат
@@ -884,7 +859,6 @@ Unnamed: 0,en,bg
 896,tough,труден
 898,church,църква
 899,sad,тъжен
-900,cell,клетка
 901,drunk,пиян
 902,share,дял
 903,camera,камера
@@ -966,7 +940,6 @@ Unnamed: 0,en,bg
 982,continue,продължи
 983,appreciate,ценя
 984,cat,котка
-985,shop,магазин
 986,driving,шофиране
 987,congratulations,Честито
 988,wrote,написах
