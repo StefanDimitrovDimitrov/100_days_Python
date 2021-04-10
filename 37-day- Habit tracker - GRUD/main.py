@@ -1,8 +1,9 @@
 import requests
 from datetime import date
+import os
 
 pixela_endpoint = "https://pixe.la/v1/users"
-TOKEN = "heibreiveseldolvishlubimieto"
+TOKEN = os.environ["TOKEN"]
 USERNAME = "stefan22"
 GRAPH_ID = "graph1"
 today = date.today()
@@ -36,8 +37,6 @@ create_pixel = {
 update_graph = {
     "quantity": "200",
 }
-
-
 
 # response = requests.post(url=pixela_endpoint, json=user_params)
 # print(response.text)
