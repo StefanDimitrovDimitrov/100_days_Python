@@ -52,11 +52,6 @@ def news():
         dict_news["Summary"] = d['description']
         dict_news["Author"] = d['author']
 
-    # data ={
-    #     Title: top_headlines["articles"][0] ,
-    #     summary:top_headlines ,
-    #     author: top_headlines ,
-    # }
 
     return dict_news
 
