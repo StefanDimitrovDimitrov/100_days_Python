@@ -13,7 +13,9 @@ sheet_data = data_manager.get_destination_data()
 if sheet_data[0]["iataCode"] == "":
     from flight_search import FlightSearch
     flight_search = FlightSearch()
+    print(flight_search)
     for row in sheet_data:
+        print(row["city"])
         row["iataCode"] = flight_search.get_destination_code(row["city"])
     print(f"sheet_data:\n {sheet_data}")
 
