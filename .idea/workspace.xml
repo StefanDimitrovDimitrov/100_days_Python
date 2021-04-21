@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d39ac67-6e9b-4539-8a63-59aad8f2aa40" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/45 day - scraping/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/45 day - scraping/website.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/45 day - scraping/list_movies/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/45 day - scraping/scraping_ycombinator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -395,14 +394,14 @@
       <item itemvalue="Python.Coffee Machine" />
       <item itemvalue="Python.Game - HigherVsLower- Followers_in_Instargam" />
       <item itemvalue="Python.Turtle" />
-      <item itemvalue="Python.game_of_guesses" />
-      <item itemvalue="Python.main" />
-      <item itemvalue="Python.test" />
       <item itemvalue="Python.converter" />
       <item itemvalue="Python.demo (2)" />
+      <item itemvalue="Python.game_of_guesses" />
       <item itemvalue="Python.main (1)" />
+      <item itemvalue="Python.main" />
       <item itemvalue="Python.more gadgets" />
       <item itemvalue="Python.playground" />
+      <item itemvalue="Python.test" />
     </list>
     <recent_temporary>
       <list>
