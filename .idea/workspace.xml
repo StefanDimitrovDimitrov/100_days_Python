@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d39ac67-6e9b-4539-8a63-59aad8f2aa40" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/45 day - scraping/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/45 day - scraping/website.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,15 +27,15 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/28-day-Tkinter" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/45 day - scraping" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -393,14 +395,14 @@
       <item itemvalue="Python.Coffee Machine" />
       <item itemvalue="Python.Game - HigherVsLower- Followers_in_Instargam" />
       <item itemvalue="Python.Turtle" />
+      <item itemvalue="Python.game_of_guesses" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.test" />
       <item itemvalue="Python.converter" />
       <item itemvalue="Python.demo (2)" />
-      <item itemvalue="Python.game_of_guesses" />
       <item itemvalue="Python.main (1)" />
-      <item itemvalue="Python.main" />
       <item itemvalue="Python.more gadgets" />
       <item itemvalue="Python.playground" />
-      <item itemvalue="Python.test" />
     </list>
     <recent_temporary>
       <list>
@@ -412,6 +414,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -427,132 +430,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="678" y="133" key="#15-days_-_Coffee_Machine" timestamp="1610131884345">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="678" y="133" key="#15-days_-_Coffee_Machine/0.0.1920.1040@0.0.1920.1040" timestamp="1610131884345" />
-    <state x="282" y="137" key="#1st_day_Band_Name_Generator" timestamp="1609010573364">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="282" y="137" key="#1st_day_Band_Name_Generator/0.0.1920.1040@0.0.1920.1040" timestamp="1609010573364" />
-    <state x="678" y="133" key="#3rd_day" timestamp="1609175008683">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="678" y="133" key="#3rd_day/0.0.1920.1040@0.0.1920.1040" timestamp="1609175008683" />
-    <state x="1158" y="137" key="#4rd_day_Stone_Paper_Scissors" timestamp="1609222935126">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1158" y="137" key="#4rd_day_Stone_Paper_Scissors/0.0.1920.1040@0.0.1920.1040" timestamp="1609222935126" />
-    <state x="678" y="133" key="#5th_day_Password_Generator" timestamp="1609258730039">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="678" y="133" key="#5th_day_Password_Generator/0.0.1920.1040@0.0.1920.1040" timestamp="1609258730039" />
-    <state x="678" y="133" key="#Blackjack_game" timestamp="1609755655683">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="678" y="133" key="#Blackjack_game/0.0.1920.1040@0.0.1920.1040" timestamp="1609755655683" />
-    <state x="678" y="133" key="#Caesar_Cipher" timestamp="1609608202716">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="678" y="133" key="#Caesar_Cipher/0.0.1920.1040@0.0.1920.1040" timestamp="1609608202716" />
-    <state x="198" y="133" key="#Calculator" timestamp="1609681427537">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="198" y="133" key="#Calculator/0.0.1920.1040@0.0.1920.1040" timestamp="1609681427537" />
-    <state x="678" y="133" key="#Game_-_HigherVsLower-_Followers_in_Instargam" timestamp="1610000364799">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="678" y="133" key="#Game_-_HigherVsLower-_Followers_in_Instargam/0.0.1920.1040@0.0.1920.1040" timestamp="1610000364799" />
-    <state x="198" y="133" key="#The_Secret_Auction" timestamp="1609665283662">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="198" y="133" key="#The_Secret_Auction/0.0.1920.1040@0.0.1920.1040" timestamp="1609665283662" />
-    <state x="678" y="133" key="#Turtle" timestamp="1610204364292">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="678" y="133" key="#Turtle/0.0.1920.1040@0.0.1920.1040" timestamp="1610204364292" />
-    <state x="413" y="174" width="1094" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610902684848">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="413" y="174" width="1094" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610902684848" />
-    <state x="678" y="133" key="#game_of_guesses" timestamp="1609931037436">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="678" y="133" key="#game_of_guesses/0.0.1920.1040@0.0.1920.1040" timestamp="1609931037436" />
-    <state x="1064" y="141" key="#main" timestamp="1609335234826">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1064" y="141" key="#main/0.0.1920.1040@0.0.1920.1040" timestamp="1609335234826" />
-    <state x="678" y="133" key="#prime_num" timestamp="1609605153442">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="678" y="133" key="#prime_num/0.0.1920.1040@0.0.1920.1040" timestamp="1609605153442" />
-    <state x="678" y="133" key="#test" timestamp="1609776480997">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="678" y="133" key="#test/0.0.1920.1040@0.0.1920.1040" timestamp="1609776480997" />
-    <state x="131" y="125" key="CommitChangelistDialog2" timestamp="1610917393495">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="131" y="125" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1610917393495" />
-    <state x="739" y="274" key="FileChooserDialogImpl" timestamp="1616078585678">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="739" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1616078585678" />
-    <state width="956" height="276" key="GridCell.Tab.0.bottom" timestamp="1614518607897">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="956" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1614518607897" />
-    <state width="956" height="276" key="GridCell.Tab.0.center" timestamp="1614518607897">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="956" height="276" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1614518607897" />
-    <state width="956" height="276" key="GridCell.Tab.0.left" timestamp="1614518607896">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="956" height="276" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1614518607896" />
-    <state width="956" height="276" key="GridCell.Tab.0.right" timestamp="1614518607897">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="956" height="276" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1614518607897" />
-    <state width="1411" height="189" key="GridCell.Tab.1.bottom" timestamp="1614452642116">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1411" height="189" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1614452642116" />
-    <state width="1411" height="189" key="GridCell.Tab.1.center" timestamp="1614452642116">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1411" height="189" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1614452642116" />
-    <state width="1411" height="189" key="GridCell.Tab.1.left" timestamp="1614452642116">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1411" height="189" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1614452642116" />
-    <state width="1411" height="189" key="GridCell.Tab.1.right" timestamp="1614452642116">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1411" height="189" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1614452642116" />
-    <state x="858" y="186" key="SettingsEditor" timestamp="1610205569729">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="858" y="186" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1610205569729" />
-    <state x="806" y="435" key="VCS.ChangelistChooser" timestamp="1610186830121">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="806" y="435" key="VCS.ChangelistChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1610186830121" />
-    <state x="1065" y="416" key="com.intellij.ide.util.TipDialog" timestamp="1616078566881">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1065" y="416" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616078566881" />
-    <state x="515" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614447432452">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="515" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1614447432452" />
-    <state x="218" y="233" width="672" height="678" key="search.everywhere.popup" timestamp="1609182372618">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="218" y="233" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1609182372618" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
