@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d39ac67-6e9b-4539-8a63-59aad8f2aa40" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/48 - day - Selenium/challenge_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/48 - day - Selenium/challenge_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/48 - day - Selenium/navigation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/47 - day - Amazon scraping/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/47 - day - Amazon scraping/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/48 - day - Selenium/challenge.py" beforeDir="false" afterPath="$PROJECT_DIR$/48 - day - Selenium/challenge_00.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +37,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/48 - day - Selenium" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
@@ -48,7 +53,7 @@
       <recent name="C:\Forest\GitHub_Master\100_Days_Python\100_days_Python\4 - day - Stone_Paper_Scissors" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (2)">
+  <component name="RunManager" selected="Python.challenge_02">
     <configuration name="100 days Python" type="PythonConfigurationType" factoryName="Python">
       <module name="100_days_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -217,6 +222,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="challenge_02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100_days_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\jivot\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/48 - day - Selenium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/48 - day - Selenium/challenge_02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="converter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100_days_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -368,27 +394,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="playground" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="100_days_Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\jivot\AppData\Local\Programs\Python\Python38-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/27-day-Tkinter" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/27-day-Tkinter/playground.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="100_days_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -418,23 +423,23 @@
       <item itemvalue="Python.Coffee Machine" />
       <item itemvalue="Python.Game - HigherVsLower- Followers_in_Instargam" />
       <item itemvalue="Python.Turtle" />
-      <item itemvalue="Python.converter" />
-      <item itemvalue="Python.demo (2)" />
       <item itemvalue="Python.game_of_guesses" />
       <item itemvalue="Python.main (2)" />
-      <item itemvalue="Python.main1" />
       <item itemvalue="Python.main" />
-      <item itemvalue="Python.more gadgets" />
-      <item itemvalue="Python.playground" />
       <item itemvalue="Python.test" />
+      <item itemvalue="Python.converter" />
+      <item itemvalue="Python.demo (2)" />
+      <item itemvalue="Python.main1" />
+      <item itemvalue="Python.more gadgets" />
+      <item itemvalue="Python.challenge_02" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.challenge_02" />
         <item itemvalue="Python.main1" />
         <item itemvalue="Python.converter" />
         <item itemvalue="Python.demo (2)" />
         <item itemvalue="Python.more gadgets" />
-        <item itemvalue="Python.playground" />
       </list>
     </recent_temporary>
   </component>
