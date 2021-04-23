@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d39ac67-6e9b-4539-8a63-59aad8f2aa40" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/45 day - scraping/list_movies/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/45 day - scraping/scraping_ycombinator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/32-day - SMTP/Birthday Wisher (Day 32) start/main1.py" beforeDir="false" afterPath="$PROJECT_DIR$/32-day - SMTP/Birthday Wisher (Day 32) start/main1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/47 - day - Amazon scraping/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/47 - day - Amazon scraping/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,23 +34,23 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/45 day - scraping" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Forest\GitHub_Master\100_Days_Python\100_days_Python\15-days -Coffee Machine" />
-      <recent name="C:\Forest\GitHub_Master\100_Days_Python\100_days_Python\6 - day - The_Maze" />
-      <recent name="C:\Forest\GitHub_Master\100_Days_Python\100_days_Python\5 - day - Password_Generator" />
-      <recent name="C:\Forest\GitHub_Master\100_Days_Python\100_days_Python\4 - day - Stone_Paper_Scissors" />
-      <recent name="C:\Forest\GitHub_Master\100_Days_Python\100_days_Python\3 - day - Treasure_Game" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Forest\GitHub_Master\100_Days_Python\100_days_Python\25-day - CVS files" />
       <recent name="C:\Forest\GitHub_Master\100_Days_Python\100_days_Python\19-days-TurtleGames" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Forest\GitHub_Master\100_Days_Python\100_days_Python\46 - day - Muzic project Time Travel - Spotypy" />
+      <recent name="C:\Forest\GitHub_Master\100_Days_Python\100_days_Python\15-days -Coffee Machine" />
+      <recent name="C:\Forest\GitHub_Master\100_Days_Python\100_days_Python\6 - day - The_Maze" />
+      <recent name="C:\Forest\GitHub_Master\100_Days_Python\100_days_Python\5 - day - Password_Generator" />
+      <recent name="C:\Forest\GitHub_Master\100_Days_Python\100_days_Python\4 - day - Stone_Paper_Scissors" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.converter">
+  <component name="RunManager" selected="Python.main (2)">
     <configuration name="100 days Python" type="PythonConfigurationType" factoryName="Python">
       <module name="100_days_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -281,19 +282,21 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="100_days_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="MY_EMAIL" value="dimitrov22@yahoo.com" />
+        <env name="PASSWORD" value="ufmo adjc gjzd yxrp!" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\jivot\AppData\Local\Programs\Python\Python38-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/26-day-List Comprehension/NATO-alphabet-start" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/47 - day - Amazon scraping" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/26-day-List Comprehension/NATO-alphabet-start/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/47 - day - Amazon scraping/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -315,6 +318,29 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16-days- OOP-Basics/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100_days_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="MY_EMAIL" value="dimitrov22@yahoo.com" />
+        <env name="PASSWORD" value="ufmo adjc gjzd yxrp!" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/32-day - SMTP/Birthday Wisher (Day 32) start" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/32-day - SMTP/Birthday Wisher (Day 32) start/main1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -387,6 +413,7 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.main (2)" />
       <item itemvalue="Python.100 days Python" />
       <item itemvalue="Python.5th_day_Password_Generator" />
       <item itemvalue="Python.Blackjack game" />
@@ -399,17 +426,17 @@
       <item itemvalue="Python.test" />
       <item itemvalue="Python.converter" />
       <item itemvalue="Python.demo (2)" />
-      <item itemvalue="Python.main (1)" />
       <item itemvalue="Python.more gadgets" />
       <item itemvalue="Python.playground" />
+      <item itemvalue="Python.main1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main1" />
         <item itemvalue="Python.converter" />
         <item itemvalue="Python.demo (2)" />
         <item itemvalue="Python.more gadgets" />
         <item itemvalue="Python.playground" />
-        <item itemvalue="Python.main (1)" />
       </list>
     </recent_temporary>
   </component>
