@@ -32,5 +32,5 @@ if item_price <= 100:
             connection.login(user=MY_EMAIL, password=PASSWORD)
             connection.sendmail(
                 from_addr=MY_EMAIL,
-                to_addrs="dimitrov22@yahoo.com",
+                to_addrs=MY_EMAIL,
                 msg=f"Subject:Buy_now\n\nItem Title: {item_name}\nPrice: {item_price}\nLink: {url} .")
