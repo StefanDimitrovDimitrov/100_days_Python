@@ -27,27 +27,45 @@ remember_me.click()
 time.sleep(6)
 
 
-#
-# element = driver.find_element_by_link_text("Stefan Dimitrov")
-#
-# # create action chain object
-# action = ActionChains(driver)
-#
-# # perform the operation
-# action.move_to_element(element).click().perform()
-# time.sleep(5)
-
 element_2 = driver.find_element_by_xpath('/html/body/div[8]/header/div[2]/nav/ul/li[3]/a')
 element_2.click()
-time.sleep(6)
+time.sleep(3)
 
 
 search = driver.find_element_by_css_selector('.ember-view input')
 print(search.text)
 search.send_keys('Python')
-time.sleep(2)
+time.sleep(1)
 location = driver.find_element_by_css_selector('.jobs-search-box__input--location input')
 location.send_keys('Sofia')
 time.sleep(1)
 search_btn = driver.find_element_by_css_selector('.jobs-search-box__container button')
 search_btn.click()
+time.sleep(2)
+# list_job_titles = driver.find_elements_by_css_selector('.jobs-search-results__list a')
+list_job_titles = driver.find_elements_by_css_selector('.jobs-search-results__list .job-card-list__title')
+time.sleep(1)
+dict_positions_companies = {}
+
+
+for i, title in enumerate(list_job_titles):
+    dict_positions_companies[i] = {
+        'Position': title.text,
+        'link_position': title.get_attribute('href')
+    }
+list_job_company = driver.find_elements_by_css_selector('.jobs-search-results__list .job-card-container__company-name')
+time.sleep(1)
+for i, company in enumerate(list_job_company):
+    dict_positions_companies[i].update({
+        'Company': company.text,
+        'link_company': company.get_attribute('href')
+    })
+
+
+python_positions_list = []
+
+for key, value in dict_positions_companies.items():
+    if 'Python' in value['Position'] and 'Senior' not in value['Position']:
+        python_positions_list.append(value)
+
+print(python_positions_list)
