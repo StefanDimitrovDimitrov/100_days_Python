@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d39ac67-6e9b-4539-8a63-59aad8f2aa40" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/49 - day - LinkedIn - applaying bot/Schedule test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/49 - day - LinkedIn - applaying bot/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/50 - day - scraping-Imot.bg/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/47 - day - Amazon scraping/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/47 - day - Amazon scraping/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/49 - day - LinkedIn - applaying bot/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/49 - day - LinkedIn - applaying bot/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +49,7 @@
       <recent name="C:\Forest\GitHub_Master\100_Days_Python\100_days_Python\4 - day - Stone_Paper_Scissors" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.main (1)">
     <configuration name="100 days Python" type="PythonConfigurationType" factoryName="Python">
       <module name="100_days_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -347,6 +344,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="100_days_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="USER" value="stefan.dimitrov.dimitrov@gmail.com" />
+        <env name="PASS" value="Zaredi123!" />
+        <env name="MY_EMAIL" value="dimitrov22@yahoo.com" />
+        <env name="PASSWORD" value="ufmo adjc gjzd yxrp!" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/50 - day - scraping-Imot.bg" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/50 - day - scraping-Imot.bg/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="100_days_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -481,6 +503,7 @@
       <item itemvalue="Python.main1" />
       <item itemvalue="Python.demo" />
       <item itemvalue="Python.Schedule test" />
+      <item itemvalue="Python.main (1)" />
     </list>
     <recent_temporary>
       <list>
