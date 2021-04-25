@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d39ac67-6e9b-4539-8a63-59aad8f2aa40" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/48 - day - Selenium/challenge_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/48 - day - Selenium/challenge_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/48 - day - Selenium/navigation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/49 - day - LinkedIn - applaying bot/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/47 - day - Amazon scraping/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/47 - day - Amazon scraping/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/48 - day - Selenium/challenge.py" beforeDir="false" afterPath="$PROJECT_DIR$/48 - day - Selenium/challenge_00.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +49,7 @@
       <recent name="C:\Forest\GitHub_Master\100_Days_Python\100_days_Python\4 - day - Stone_Paper_Scissors" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.challenge_02">
+  <component name="RunManager" selected="Python.main">
     <configuration name="100 days Python" type="PythonConfigurationType" factoryName="Python">
       <module name="100_days_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -222,7 +218,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="challenge_02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="challenge_02" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="100_days_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -335,13 +331,15 @@
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="USER" value="stefan.dimitrov.dimitrov@gmail.com" />
+        <env name="PASS" value="Zaredi123!" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19-days-TurtleGames" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/49 - day - LinkedIn - applaying bot" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16-days- OOP-Basics/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/49 - day - LinkedIn - applaying bot/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -373,19 +371,21 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="more gadgets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main22" type="PythonConfigurationType" factoryName="Python">
       <module name="100_days_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="USER" value="stefan.dimitrov.dimitrov@gmail.com" />
+        <env name="PASS" value="Zaredi123!" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\jivot\AppData\Local\Programs\Python\Python38-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/27-day-Tkinter" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19-days-TurtleGames" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/27-day-Tkinter/more gadgets.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16-days- OOP-Basics/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -416,6 +416,7 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.main" />
       <item itemvalue="Python.100 days Python" />
       <item itemvalue="Python.5th_day_Password_Generator" />
       <item itemvalue="Python.Blackjack game" />
@@ -425,21 +426,18 @@
       <item itemvalue="Python.Turtle" />
       <item itemvalue="Python.game_of_guesses" />
       <item itemvalue="Python.main (2)" />
-      <item itemvalue="Python.main" />
+      <item itemvalue="Python.main22" />
       <item itemvalue="Python.test" />
+      <item itemvalue="Python.challenge_02" />
       <item itemvalue="Python.converter" />
       <item itemvalue="Python.demo (2)" />
       <item itemvalue="Python.main1" />
-      <item itemvalue="Python.more gadgets" />
-      <item itemvalue="Python.challenge_02" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.challenge_02" />
         <item itemvalue="Python.main1" />
         <item itemvalue="Python.converter" />
         <item itemvalue="Python.demo (2)" />
-        <item itemvalue="Python.more gadgets" />
       </list>
     </recent_temporary>
   </component>
