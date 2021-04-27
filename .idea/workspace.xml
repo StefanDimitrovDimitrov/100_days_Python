@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d39ac67-6e9b-4539-8a63-59aad8f2aa40" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/54- Hello Flask/hello.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/54- Hello Flask/decorator exersice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/55 -days - Flask Project- Guest_the_Number/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/54- Hello Flask/hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/54- Hello Flask/hello.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +34,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/54- Hello Flask" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/55 -days - Flask Project- Guest_the_Number" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
