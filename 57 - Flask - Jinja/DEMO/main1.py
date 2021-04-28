@@ -15,12 +15,12 @@ def guess(name):
     guess_name = name.capitalize()
 
     response_name = requests.get(f'https://api.agify.io?name={guess_name}')
-    data = response_name.json()
-    age = data['age']
+    data_age = response_name.json()
+    age = data_age['age']
 
     response_name = requests.get(f'https://api.genderize.io?name={guess_name}')
-    data = response_name.json()
-    sex = data['gender']
+    data_gender = response_name.json()
+    sex = data_gender['gender']
 
     return render_template('index1.html', name=guess_name, sex=sex, age=age)
 
