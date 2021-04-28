@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d39ac67-6e9b-4539-8a63-59aad8f2aa40" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/54- Hello Flask/decorator exersice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/55 -days - Flask Project- Guest_the_Number/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/54- Hello Flask/hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/54- Hello Flask/hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/55 -days - Flask Project- Guest_the_Number/final_project2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56 - day - PersonalSite/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56 - day - PersonalSite/static/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56 - day - PersonalSite/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/55 -days - Flask Project- Guest_the_Number/final_project.py" beforeDir="false" afterPath="$PROJECT_DIR$/55 -days - Flask Project- Guest_the_Number/final_project.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +36,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/55 -days - Flask Project- Guest_the_Number" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/56.5 - day - PersonalCard/Name_Card_Website" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
@@ -43,11 +45,11 @@
       <recent name="C:\Forest\GitHub_Master\100_Days_Python\100_days_Python\19-days-TurtleGames" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Forest\GitHub_Master\100_Days_Python\100_days_Python\56.5 - day - PersonalCard" />
       <recent name="C:\Forest\GitHub_Master\100_Days_Python\100_days_Python\46 - day - Muzic project Time Travel - Spotypy" />
       <recent name="C:\Forest\GitHub_Master\100_Days_Python\100_days_Python\15-days -Coffee Machine" />
       <recent name="C:\Forest\GitHub_Master\100_Days_Python\100_days_Python\6 - day - The_Maze" />
       <recent name="C:\Forest\GitHub_Master\100_Days_Python\100_days_Python\5 - day - Password_Generator" />
-      <recent name="C:\Forest\GitHub_Master\100_Days_Python\100_days_Python\4 - day - Stone_Paper_Scissors" />
     </key>
   </component>
   <component name="RunManager" selected="Python.hello">
