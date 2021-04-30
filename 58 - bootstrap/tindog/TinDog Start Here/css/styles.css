@@ -1,21 +1,63 @@
-h1{
+body{
+    font-family:'Montserrat';
+}
+
+
+.title_text{
     font-family: 'Montserrat-Black';
-    font-size: 3 rem;
+    font-size: 3.5rem;
     line-height: 1.5;
+    margin: 5% 3% 5%
 }
 
 #title{
     background-color: #a37eba;
+    color: #e5df88;
 }
 
-.container-fluid{
+.container{
     padding: 3% 15%;
 }
 
-.navbar-brand {
-    color: #e5df88
-}
 
 .nav-link{
     color: #e5df88
+}
+
+.navbar_main {
+
+    padding: 2% 5% 5% 2%;
+
+}
+
+.navbar-brand_1{
+    color: #e5df88;
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #e5df88;
+
+}
+
+.nav-item_1 {
+    padding: 0 18px;
+    color: #e5df88
+}
+
+.nav-link_1 {
+    font-size: 1.2rem;
+    font-family: "Montserrat-Light";
+    color: #e5df88
+}
+
+.download-button{
+
+    margin: 5% 3% 5%
+
+}
+
+.title-image {
+    width: 60%;
+    transform: rotate(25deg)
+
 }
