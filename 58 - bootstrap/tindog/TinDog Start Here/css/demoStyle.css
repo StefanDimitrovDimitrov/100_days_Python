@@ -1,0 +1,27 @@
+/*Multiple Selectors*/
+
+h1, h2, h3 {
+    background-color: Professor;
+}
+
+/*Hierarchical Selectors*/
+
+#title .container-fluid {
+    padding-top: 3%
+}
+
+/*Combined Selectors*/
+/*the id should be on h1*/
+h1#title{
+    color:red
+}
+
+
+/*
+Priority*/
+/* id , class , tag*/
+/*If the style is in the html it has the highest priority*/
+h1{
+    color:red;
+    color:green; /*It will be green*/
+}
