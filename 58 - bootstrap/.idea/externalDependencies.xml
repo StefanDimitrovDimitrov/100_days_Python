@@ -4,5 +4,6 @@
     <plugin id="com.intellij" />
     <plugin id="com.jetbrains.codeWithMe" />
     <plugin id="com.kite.intellij" />
+    <plugin id="in.bulma.snippet.intellij" />
   </component>
 </project>
