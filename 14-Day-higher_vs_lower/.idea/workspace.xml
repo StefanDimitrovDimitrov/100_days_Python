@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9553e3db-29a0-4006-b3da-37bf230c2050" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ace518aa-a93c-4b72-bfd9-bc0d4900c824" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../22-day - PongGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../22-day - PongGame/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../53-days - Scraping - finalProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../53-days - Scraping - finalProject/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../55 -days - Flask Project- Guest_the_Number/final_project.py" beforeDir="false" afterPath="$PROJECT_DIR$/../55 -days - Flask Project- Guest_the_Number/final_project.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -10,17 +11,10 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1nKpdMaljQA4sy3fmQBZUCgga0T" />
+  <component name="ProjectId" id="1u00ahUt2FvLwYV6E2fRS580CDP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -29,25 +23,24 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../23 -day - Turtle_Crossing_Hightway" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../18-days-TurtleDots" />
   </component>
   <component name="RunManager">
-    <configuration name="main_pong" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="22-days-PongGame" />
+    <configuration name="Game - HigherVsLower- Followers_in_Instargam" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="14-Day-higher_vs_lower" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\Stefan_Dimitrov\AppData\Local\Programs\Python\Python39\python.exe" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main_pong.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Game - HigherVsLower- Followers_in_Instargam.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -58,22 +51,19 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main_pong" />
+        <item itemvalue="Python.Game - HigherVsLower- Followers_in_Instargam" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9553e3db-29a0-4006-b3da-37bf230c2050" name="Default Changelist" comment="" />
-      <created>1611148722863</created>
+      <changelist id="ace518aa-a93c-4b72-bfd9-bc0d4900c824" name="Default Changelist" comment="" />
+      <created>1623787264443</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1611148722863</updated>
-      <workItem from="1623777868880" duration="49000" />
+      <updated>1623787264443</updated>
+      <workItem from="1623787265623" duration="221000" />
     </task>
     <servers />
   </component>
@@ -81,6 +71,6 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/22_day___PongGame$main_pong.coverage" NAME="main_pong Coverage Results" MODIFIED="1623777877361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/14_Day_higher_vs_lower$Game___HigherVsLower__Followers_in_Instargam.coverage" NAME="Game - HigherVsLower- Followers_in_Instargam Coverage Results" MODIFIED="1623787268709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

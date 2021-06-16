@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83439460-3c40-40bc-b813-525f9367e8e9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../55 -days - Flask Project- Guest_the_Number/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../55 -days - Flask Project- Guest_the_Number/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../56.5 - day - PersonalCard/Name_Card_Website/.idea/Name_Card_Website.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../56.5 - day - PersonalCard/Name_Card_Website/.idea/Name_Card_Website.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../56.5 - day - PersonalCard/Name_Card_Website/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../56.5 - day - PersonalCard/Name_Card_Website/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../57 - Flask - Jinja/blog-templating-start/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../57 - Flask - Jinja/blog-templating-start/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../57 - Flask - Jinja/blog-templating-start/post.py" beforeDir="false" afterPath="$PROJECT_DIR$/../57 - Flask - Jinja/blog-templating-start/post.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../22-day - PongGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../22-day - PongGame/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../55 -days - Flask Project- Guest_the_Number/final_project.py" beforeDir="false" afterPath="$PROJECT_DIR$/../55 -days - Flask Project- Guest_the_Number/final_project.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +24,59 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../50 - day - scraping-Imot.bg" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../28-day-Tkinter" />
+  </component>
+  <component name="RunManager" selected="Python.1st Pass Solution Day 53 Zillow San Fran Rentals">
+    <configuration name="1st Pass Solution Day 53 Zillow San Fran Rentals" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="53-days - Scraping - finalProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1st Pass Solution Day 53 Zillow San Fran Rentals.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="53-days - Scraping - finalProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.1st Pass Solution Day 53 Zillow San Fran Rentals" />
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -37,10 +87,15 @@
       <option name="presentableId" value="Default" />
       <updated>1622655757750</updated>
       <workItem from="1622655758905" duration="33000" />
+      <workItem from="1623785370352" duration="359000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/53_days___Scraping___finalProject$1st_Pass_Solution_Day_53_Zillow_San_Fran_Rentals.coverage" NAME="1st Pass Solution Day 53 Zillow San Fran Rentals Coverage Results" MODIFIED="1623785420979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/53_days___Scraping___finalProject$main.coverage" NAME="main Coverage Results" MODIFIED="1623785402072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
