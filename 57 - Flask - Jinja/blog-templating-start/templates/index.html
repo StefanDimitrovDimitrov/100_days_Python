@@ -14,6 +14,7 @@
     {% for q in posts: %}
     <div class="content">
         <div class="card">
+            <h2>{{ q['id']}}</h2>
             <h2>{{ q['title'] }}</h2>
             <a href="{{ url_for('new_q', num=q['id']) }}">Answer</a>
         </div>

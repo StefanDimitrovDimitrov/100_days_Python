@@ -3,6 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="3d39ac67-6e9b-4539-8a63-59aad8f2aa40" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/56 - day - PersonalSite/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/56 - day - PersonalSite/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/56.5 - day - PersonalCard/.idea/56.5 - day - PersonalCard.iml" beforeDir="false" afterPath="$PROJECT_DIR$/56.5 - day - PersonalCard/.idea/56.5 - day - PersonalCard.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/56.5 - day - PersonalCard/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/56.5 - day - PersonalCard/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/57 - Flask - Jinja/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/57 - Flask - Jinja/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/57 - Flask - Jinja/DEMO/templates/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/57 - Flask - Jinja/DEMO/templates/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/57 - Flask - Jinja/blog-templating-start/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/57 - Flask - Jinja/blog-templating-start/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +39,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../DjangoRESTFramework/Authentication" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
@@ -49,7 +55,7 @@
       <recent name="C:\Forest\GitHub_Master\100_Days_Python\100_days_Python\5 - day - Password_Generator" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.hello">
+  <component name="RunManager" selected="Python.converter">
     <configuration name="100 days Python" type="PythonConfigurationType" factoryName="Python">
       <module name="100_days_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -262,6 +268,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/48 - day - Selenium/challenge_02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="converter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100_days_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\jivot\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/27-day-Tkinter" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/27-day-Tkinter/converter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -525,9 +553,11 @@
       <item itemvalue="Python.demo" />
       <item itemvalue="Python.Schedule test" />
       <item itemvalue="Python.main (3)" />
+      <item itemvalue="Python.converter" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.converter" />
         <item itemvalue="Python.main (3)" />
         <item itemvalue="Python.Schedule test" />
         <item itemvalue="Python.demo" />
@@ -547,6 +577,8 @@
       <option name="presentableId" value="Default" />
       <updated>1609010474721</updated>
       <workItem from="1625543610634" duration="1846000" />
+      <workItem from="1630486296824" duration="530000" />
+      <workItem from="1630487181896" duration="634000" />
     </task>
     <servers />
   </component>

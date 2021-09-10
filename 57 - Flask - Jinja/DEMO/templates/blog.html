@@ -8,7 +8,7 @@
     <h1>Be ready for your Python Interview</h1>
     <a href="{{ url_for('get_blog', num=3) }}"> QUESTIONS AND ANSWERS </a>
 
-    {% for blog_post in posts: %}
+    {% for blog_post in posts %}
     <h2>{{ blog_post['title'] }}</h2>
     <h3>{{ blog_post['answer'] }}</h3>
     {% endfor %}
