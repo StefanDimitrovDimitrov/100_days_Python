@@ -35,4 +35,4 @@ if first_choice == "left":
     else:
         print("Wile you looking for a bridge a group of robbers catch you.\n GAME OVER")
 else:
-    print("Your phone is ringing. Your boss is calling you for someting urgent.You have to stop playing.\nGAME OVER")
+    print("Your phone is ringing. Your boss is calling you for something urgent.You have to stop playing.\nGAME OVER")

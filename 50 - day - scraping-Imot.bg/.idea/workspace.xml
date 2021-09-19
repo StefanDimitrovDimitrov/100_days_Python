@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5af4d28-9200-4703-8bfe-a3c54d9fda10" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../55 -days - Flask Project- Guest_the_Number/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../55 -days - Flask Project- Guest_the_Number/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../56.5 - day - PersonalCard/Name_Card_Website/.idea/Name_Card_Website.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../56.5 - day - PersonalCard/Name_Card_Website/.idea/Name_Card_Website.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../56.5 - day - PersonalCard/Name_Card_Website/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../56.5 - day - PersonalCard/Name_Card_Website/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../57 - Flask - Jinja/blog-templating-start/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../57 - Flask - Jinja/blog-templating-start/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../57 - Flask - Jinja/blog-templating-start/post.py" beforeDir="false" afterPath="$PROJECT_DIR$/../57 - Flask - Jinja/blog-templating-start/post.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2 - day - Tip_Calculator/2nd_day_Tip_Calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/../2 - day - Tip_Calculator/2nd_day_Tip_Calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3 - day - Treasure_Game/3rd_day_Treasure_Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/../3 - day - Treasure_Game/3rd_day_Treasure_Game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +24,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../49 - day - LinkedIn - applaying bot" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../48 - day - Selenium" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -37,6 +35,7 @@
       <option name="presentableId" value="Default" />
       <updated>1622655792299</updated>
       <workItem from="1622655793460" duration="13000" />
+      <workItem from="1631714951104" duration="612000" />
     </task>
     <servers />
   </component>
