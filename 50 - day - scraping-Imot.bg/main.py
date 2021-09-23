@@ -7,7 +7,7 @@ USER = os.getenv('USER')
 PASS = os.getenv('PASS')
 
 
-chrome_driver_path = "C:\Forest\GoogleDriver\chromedriver.exe"
+chrome_driver_path = "D:\Forest\software_exe\chromedriver_win32\chromedriver.exe"
 driver = webdriver.Chrome(executable_path=chrome_driver_path)
 driver.get("https://www.imot.bg/")
 time.sleep(2)
