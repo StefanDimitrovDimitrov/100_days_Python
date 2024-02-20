@@ -5,8 +5,8 @@ import random
 is_race_on = False
 screen = Screen()
 screen.setup(width=500, height=400)
-user_bet = screen.textinput(title="Make your bet Sofia", prompt="Which turtle will min the race? Enter a color: ")
-user_bet2 = screen.textinput(title="Make your bet Stefan", prompt="Which turtle will min the race? Enter a color: ")
+user_bet = screen.textinput(title="Make your bet Player1", prompt="Which turtle will win the race? Enter a color('red', 'orange', 'yellow', 'green', 'blue', 'purple'): ")
+user_bet2 = screen.textinput(title="Make your bet Player2", prompt="Which turtle will win the race? Enter a color('red', 'orange', 'yellow', 'green', 'blue', 'purple'): ")
 colors = ["red", "orange", "yellow", "green", "blue", "purple"]
 y_position = [-100, -60, -20, 20, 60, 100]
 all_turtles = []
@@ -28,13 +28,21 @@ while is_race_on:
             is_race_on = False
             winning_color = turtle.pencolor()
             if winning_color == user_bet and winning_color == user_bet2:
-                print(f"Sofia and Stefan win! The {winning_color} turtle is the winner")
+                screen.textinput(title="The Result", prompt=f"Player1 and Player2 win! The {winning_color} turtle is the winner")
+                print(f"Player1 and Player2 win! The {winning_color} turtle is the winner")
+
             elif winning_color == user_bet:
-                print(f"Sofia win!The {winning_color} turtle is the winner")
+                screen.textinput(title="The Result", prompt=f"Player1 win!The {winning_color} turtle is the winner")
+                print(f"Player1 win!The {winning_color} turtle is the winner")
+
             elif winning_color == user_bet2:
-                print(f"Stefan win!The {winning_color} turtle is the winner")
+                screen.textinput(title="The Result", prompt=f"Player2 win!The {winning_color} turtle is the winner")
+                print(f"Player2 win!The {winning_color} turtle is the winner")
+
             else:
+                screen.textinput(title="The Result", prompt=f"The game is draw. The {winning_color} turtle is the winner!")
                 print(f"The game is draw. The {winning_color} turtle is the winner!")
+
 
         rand_distance = random.randint(0, 10)
         turtle.forward(rand_distance)
